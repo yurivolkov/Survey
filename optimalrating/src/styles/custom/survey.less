@@ -1,0 +1,86 @@
+.Survey {
+
+  .ant-card {
+
+    .ant-card-body {
+      padding: 12px;
+    }
+  }
+
+  .SurveyChoices {
+
+    .SurveyChoice {
+      display: flex;
+      padding: 8px 0;
+
+      &:not(:last-of-type) {
+        border-bottom: 1px solid @colors[lightgrey];
+      }
+
+      .ChoiceImage {
+        min-width: 140px;
+        margin-right: 10px;
+        text-align: center;
+
+        .ant-form-item {
+          margin-bottom: 0;
+        }
+      }
+
+      .ChoiceInfo {
+        flex: 1;
+        max-width: 450px;
+      }
+    }
+  }
+}
+
+.SurveyDetail {
+
+  .SurveyItems {
+
+    .SurveyItem {
+      display: flex;
+      padding: 10px 0;
+      
+      &:not(:last-child) {
+        border-bottom: 1px solid @colors[lightgrey];
+      }
+  
+      .SurveyAvatar {
+        min-width: 80px;
+        margin-right: 16px;
+      }
+  
+      .SurveyContent {
+        flex: 1;
+  
+        .Label {
+          font-weight: bold;
+        }
+      }
+  
+      .Bar {
+        max-width: 600px;
+        height: 24px;
+        background-color: @colors[lightgrey];
+        position: relative;
+        text-align: center;
+  
+        .BarBg {
+          position: absolute;
+          top: 0;
+          left: 0;
+          height: 24px;
+          background-color: @primary-color;
+          z-index: 2;
+        }
+  
+        span {
+          position: relative;
+          z-index: 3;
+        }
+      }
+    }
+  }
+}

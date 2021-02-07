@@ -1,0 +1,106 @@
+.ant-form {
+
+  &-vertical {
+    
+    .ant-form-item-label {
+      padding-bottom: 0;
+    }
+  }
+}
+
+.ant-form-item-explain {
+  font-size: 12px;
+}
+
+.ant-picker {
+  width: 100%;
+}
+
+.PhoneNumber {
+  position: relative;
+
+  .react-tel-input {
+
+    .flag-dropdown {
+      border: none;
+      background-color: @colors[transparent];
+      border-radius: @border-radius-base;
+  
+      &.open {
+        background: @colors[transparent];
+      }
+  
+      .selected-flag {
+        background-color: @colors[transparent];
+  
+        &.open {
+          background: @colors[transparent];
+        }
+      }
+    }
+    
+    .form-control {
+      border-color: @border-color-base;
+      border-radius: @border-radius-base;
+      width: 100%;
+      transition: all .3s;
+  
+      &:focus {
+        border-color: @input-hover-border-color;
+        box-shadow: 0 0 0 2px rgba(58, 153, 171, 0.2);
+      }
+    }
+  
+    &:hover {
+      .form-control {
+        border-color: @input-hover-border-color;
+      }
+    }
+  }
+
+  .anticon-check-circle {
+    position: absolute;
+    right: 11px;
+    top: 11px;
+  }
+
+  .Buttons {
+    position: absolute;
+    right: 6px;
+    top: 6px;
+  }
+}
+
+.ant-form-item-has-error {
+
+  .SurveyUpload {
+
+    .ant-upload {
+      border-color: @error-color;
+      color: @error-color;
+    }
+  }
+
+  .react-tel-input {
+
+    .form-control {
+      border-color: @error-color;
+      &:focus {
+        box-shadow: 0 0 0 2px rgba(255, 77, 79, 0.2);
+      }
+    }
+  }
+}
+
+.TextArea {
+  position: relative;
+
+  .TextAreaLength {
+    font-size: 10px;
+    position: absolute;
+    right: 12px;
+    top: -6px;
+    padding: 0 4px;
+    background-color: @colors[white];
+  }
+}

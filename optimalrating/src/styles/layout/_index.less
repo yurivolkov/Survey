@@ -1,0 +1,70 @@
+.MainLayout {
+  height: 100%;
+  
+  .ant-layout-content {
+    min-height: unset;
+    padding: 16px;
+
+    .Content {
+      display: flex;
+      
+      .Container {
+        flex: 1;
+        max-width: 100%;
+      }
+
+      .Right {
+        width: 240px;
+        min-width: 240px;
+        margin-left: 16px;
+
+        .ant-card {
+
+          &:first-child {
+            margin-bottom: 16px;
+          }
+
+          .ant-card-body {
+            padding: 8px 4px;
+          }
+        }
+
+        .ant-collapse {
+          .ant-collapse-header {
+            padding-bottom: 6px;
+          }
+          .ant-collapse-content-box {
+            padding: 0 24px;
+
+            > div {
+              height: 30px;
+              line-height: 30px;
+
+              a {
+                color: fade(@colors[black], 65%);
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  
+  @import './header.less';
+  @import './sider.less';
+  @import './footer.less';
+
+  @media screen and (max-width: @size[tablet]) {
+    .ant-layout-content {
+
+      .Content {
+
+        .Right {
+          display: none;
+        }
+      }
+    }
+  }
+}
+
+@import './mobile.less';

@@ -1,0 +1,823 @@
+{
+  "code": "200.0000",
+  "message": "Your request has been succesfully cleared.",
+  "result": {
+    "set": [
+      {
+        "id": 2,
+        "product": {
+          "id": 8508,
+          "tsoftUrl": "giorgio-armani-prive-rose-dprimearabie-unisex-100-ml-perfume-original-tester-perfume",
+          "code": "T210",
+          "title": {
+            "ar": "Giorgio Armani Prive Rose D&Prime;Arabie Unisex 100 ml Perfume",
+            "en": "Giorgio Armani Prive Rose D&Prime;Arabie Unisex 100 ml Perfume"
+          },
+          "styledTitle": {
+            "ar": "<b>Giorgio Armani</b> Prive Rose D&Prime;Arabie Unisex 100 ml Perfume",
+            "en": "<b>Giorgio Armani</b> Prive Rose D&Prime;Arabie Unisex 100 ml Perfume"
+          },
+          "detail": {
+            "ar": "<p>Testers are even more discounted than the fancy boxed versions and are great if you don't have a need for the fancy packaging.<br /><br /><b>What is a Tester</b><br /><br /> A tester is a version of a fragrance that comes without the fancy, retail packaging. Tester versions come in the same bottle as the retail version and include the same amount and quality of fragrance. The testers you see on our website are direct from the manufacturer and have never been used. If you'd like to save money on a fragrance for yourself, consider purchasing the tester version of your brand. Please be aware that not all brands have testers available.<br /><br /><b>What to Expect</b><br /><br />In most cases, a tester fragrance will come in a plain white or cardboard box. However, some designers will reduce production costs by distributing their tester products unboxed and without caps. By cap we mean the decorative top, the spray nozzle comes with all spray fragrances. <br /><br /><strong>This product cannot be returned or exchanged.</strong></p>",
+            "en": "<p>Testers are even more discounted than the fancy boxed versions and are great if you don't have a need for the fancy packaging.<br /><br /><b>What is a Tester</b><br /><br /> A tester is a version of a fragrance that comes without the fancy, retail packaging. Tester versions come in the same bottle as the retail version and include the same amount and quality of fragrance. The testers you see on our website are direct from the manufacturer and have never been used. If you'd like to save money on a fragrance for yourself, consider purchasing the tester version of your brand. Please be aware that not all brands have testers available.<br /><br /><b>What to Expect</b><br /><br />In most cases, a tester fragrance will come in a plain white or cardboard box. However, some designers will reduce production costs by distributing their tester products unboxed and without caps. By cap we mean the decorative top, the spray nozzle comes with all spray fragrances. <br /><br /><strong>This product cannot be returned or exchanged.</strong></p>"
+          },
+          "cover": {
+            "image": "355186.jpg",
+            "title": {
+              "ar": "Giorgio Armani Prive Rose D&Prime;Arabie Unisex 100 ml Perfume",
+              "en": "Giorgio Armani Prive Rose D&Prime;Arabie Unisex 100 ml Perfume"
+            }
+          },
+          "gallery": [
+            {
+              "image": "355186.jpg",
+              "title": {
+                "ar": "Giorgio Armani Prive Rose D&Prime;Arabie Unisex 100 ml Perfume",
+                "en": "Giorgio Armani Prive Rose D&Prime;Arabie Unisex 100 ml Perfume"
+              }
+            }
+          ],
+          "category": {
+            "id": 86,
+            "parentId": 195,
+            "name": {
+              "ar": "Giorgio Armani",
+              "en": "Giorgio Armani"
+            },
+            "cover": {
+              "image": "noimage-2.jpg",
+              "title": "Giorgio Armani"
+            },
+            "listOrder": 38,
+            "showInMobile": true,
+            "status": "a",
+            "dateCreated": "02.10.2018 11:09:17",
+            "dateUpdated": "02.10.2018 11:09:42"
+          },
+          "categories": [
+            {
+              "id": 167,
+              "parentId": 196,
+              "name": {
+                "ar": "Giorgio Armani",
+                "en": "Giorgio Armani"
+              },
+              "cover": {
+                "image": "noimage-2.jpg",
+                "title": "Giorgio Armani"
+              },
+              "listOrder": 34,
+              "showInMobile": true,
+              "status": "a",
+              "dateCreated": "02.10.2018 11:09:17",
+              "dateUpdated": "02.10.2018 11:09:42"
+            },
+            {
+              "id": 86,
+              "parentId": 195,
+              "name": {
+                "ar": "Giorgio Armani",
+                "en": "Giorgio Armani"
+              },
+              "cover": {
+                "image": "noimage-2.jpg",
+                "title": "Giorgio Armani"
+              },
+              "listOrder": 38,
+              "showInMobile": true,
+              "status": "a",
+              "dateCreated": "02.10.2018 11:09:17",
+              "dateUpdated": "02.10.2018 11:09:42"
+            }
+          ],
+          "price": {
+            "buy": 31,
+            "sell": 407,
+            "sellWithVat": 204,
+            "sellWithVatWithoutDiscount": 407
+          },
+          "currency": {
+            "id": 4,
+            "code": "SAR",
+            "name": {
+              "ar": "Suudi Arabistan Riyali",
+              "en": "Suudi Arabistan Riyali",
+              "tr": "Suudi Arabistan Riyali"
+            },
+            "rates": {
+              "manual": 1,
+              "current": 1.5937,
+              "default": "manual"
+            },
+            "status": "a",
+            "dateCreated": "13.09.2018 16:56:11",
+            "dateUpdated": "02.10.2018 11:00:33"
+          },
+          "brand": {
+            "id": 140,
+            "logo": null,
+            "name": {
+              "ar": "Giorgio Armani",
+              "en": "Giorgio Armani"
+            },
+            "description": null,
+            "campaign": {
+              "isCampaign": false,
+              "campaignDateEnd": null,
+              "campaignDateStart": null
+            },
+            "owner": null,
+            "status": "a",
+            "dateCreated": "02.10.2018 10:59:13",
+            "dateUpdated": "02.10.2018 10:59:21"
+          },
+          "model": null,
+          "supplier": null,
+          "cargo": null,
+          "stock": {
+            "stock": 992,
+            "inStock": "y",
+            "stockUnit": 0
+          },
+          "vat": 0,
+          "hasDiscount": null,
+          "isNew": "y",
+          "visibility": {
+            "showInMobile": "y"
+          },
+          "listOrder": 30,
+          "rateCount": null,
+          "rateAvg": null,
+          "viewInMobile": "y",
+          "status": "a",
+          "dateCreated": "07.10.2018 20:52:08",
+          "dateUpdated": "22.11.2018 17:37:53"
+        },
+        "customer": {
+          "id": 1037,
+          "registerType": "g",
+          "customerGroup": null,
+          "code": "VBC15409238424",
+          "name": {
+            "lastName": "Svintek",
+            "firstName": "Krisztina"
+          },
+          "username": null,
+          "email": "s.christee@googlemail.com",
+          "personalInfo": {
+            "phone": {
+              "number": null,
+              "gsmCode": null,
+              "countryCode": null
+            },
+            "gender": null,
+            "birthDate": null
+          },
+          "nationality": null,
+          "isSubscribed": true,
+          "facebookUid": null,
+          "confirmed": "y",
+          "confirmationToken": null,
+          "extraInfo": null,
+          "lastLogin": {
+            "timestamp": 1540923845
+          },
+          "status": "a",
+          "dateCreated": "30.10.2018 21:24:05",
+          "dateUpdated": "30.10.2018 21:24:05"
+        },
+        "rate": 2,
+        "message": "I believe the item I received is NOT an original tester!I had one from a different website and this one I got now doesn’t last as long,not as strong and came with a suspicious fancy box.I want refund!",
+        "status": "p",
+        "dateCreated": "03.11.2018 10:30:28",
+        "dateUpdated": null
+      },
+      {
+        "id": 3,
+        "product": {
+          "id": 8464,
+          "tsoftUrl": "chanel-bleu-de-chanel-100-ml-edt-for-men-original-tester-perfume",
+          "code": "T261",
+          "title": {
+            "ar": "Chanel Blue De Chanel 100 ml EDP For Men",
+            "en": "Chanel Blue De Chanel 100 ml EDP For Men"
+          },
+          "styledTitle": {
+            "ar": "<b>Chanel</b> Blue De <b>Chanel</b> 100 ml EDP For Men",
+            "en": "<b>Chanel</b> Blue De <b>Chanel</b> 100 ml EDP For Men"
+          },
+          "detail": {
+            "ar": "<p>Testers are even more discounted than the fancy boxed versions and are great if you don't have a need for the fancy packaging.<br /><br /><b>What is a Tester</b><br /><br /> A tester is a version of a fragrance that comes without the fancy, retail packaging. Tester versions come in the same bottle as the retail version and include the same amount and quality of fragrance. The testers you see on our website are direct from the manufacturer and have never been used. If you'd like to save money on a fragrance for yourself, consider purchasing the tester version of your brand. Please be aware that not all brands have testers available.<br /><br /><b>What to Expect</b><br /><br />In most cases, a tester fragrance will come in a plain white or cardboard box. However, some designers will reduce production costs by distributing their tester products unboxed and without caps. By cap we mean the decorative top, the spray nozzle comes with all spray fragrances. <br /><br /><strong>This product cannot be returned or exchanged.</strong></p>",
+            "en": "<p>Testers are even more discounted than the fancy boxed versions and are great if you don't have a need for the fancy packaging.<br /><br /><b>What is a Tester</b><br /><br /> A tester is a version of a fragrance that comes without the fancy, retail packaging. Tester versions come in the same bottle as the retail version and include the same amount and quality of fragrance. The testers you see on our website are direct from the manufacturer and have never been used. If you'd like to save money on a fragrance for yourself, consider purchasing the tester version of your brand. Please be aware that not all brands have testers available.<br /><br /><b>What to Expect</b><br /><br />In most cases, a tester fragrance will come in a plain white or cardboard box. However, some designers will reduce production costs by distributing their tester products unboxed and without caps. By cap we mean the decorative top, the spray nozzle comes with all spray fragrances. <br /><br /><strong>This product cannot be returned or exchanged.</strong></p>"
+          },
+          "cover": {
+            "image": "153909396064.jpg",
+            "title": {
+              "ar": "Chanel Blue De Chanel 100 ml EDP For Men",
+              "en": "Chanel Blue De Chanel 100 ml EDP For Men"
+            }
+          },
+          "gallery": [
+            {
+              "image": "153909396064.jpg",
+              "title": {
+                "ar": "Chanel Blue De Chanel 100 ml EDP For Men",
+                "en": "Chanel Blue De Chanel 100 ml EDP For Men"
+              }
+            }
+          ],
+          "category": {
+            "id": 179,
+            "parentId": 196,
+            "name": {
+              "ar": "Chanel",
+              "en": "Chanel"
+            },
+            "cover": {
+              "image": "noimage-2.jpg",
+              "title": "Chanel"
+            },
+            "listOrder": 17,
+            "showInMobile": true,
+            "status": "a",
+            "dateCreated": "02.10.2018 11:09:17",
+            "dateUpdated": "02.10.2018 11:09:42"
+          },
+          "categories": [
+            {
+              "id": 179,
+              "parentId": 196,
+              "name": {
+                "ar": "Chanel",
+                "en": "Chanel"
+              },
+              "cover": {
+                "image": "noimage-2.jpg",
+                "title": "Chanel"
+              },
+              "listOrder": 17,
+              "showInMobile": true,
+              "status": "a",
+              "dateCreated": "02.10.2018 11:09:17",
+              "dateUpdated": "02.10.2018 11:09:42"
+            }
+          ],
+          "price": {
+            "buy": 33,
+            "sell": 429,
+            "sellWithVat": 215,
+            "sellWithVatWithoutDiscount": 429
+          },
+          "currency": {
+            "id": 4,
+            "code": "SAR",
+            "name": {
+              "ar": "Suudi Arabistan Riyali",
+              "en": "Suudi Arabistan Riyali",
+              "tr": "Suudi Arabistan Riyali"
+            },
+            "rates": {
+              "manual": 1,
+              "current": 1.5937,
+              "default": "manual"
+            },
+            "status": "a",
+            "dateCreated": "13.09.2018 16:56:11",
+            "dateUpdated": "02.10.2018 11:00:33"
+          },
+          "brand": {
+            "id": 107,
+            "logo": null,
+            "name": {
+              "ar": "Chanel",
+              "en": "Chanel"
+            },
+            "description": null,
+            "campaign": {
+              "isCampaign": false,
+              "campaignDateEnd": null,
+              "campaignDateStart": null
+            },
+            "owner": null,
+            "status": "a",
+            "dateCreated": "02.10.2018 10:59:12",
+            "dateUpdated": "02.10.2018 10:59:20"
+          },
+          "model": null,
+          "supplier": null,
+          "cargo": null,
+          "stock": {
+            "stock": 937,
+            "inStock": "y",
+            "stockUnit": 0
+          },
+          "vat": 0,
+          "hasDiscount": null,
+          "isNew": "y",
+          "visibility": {
+            "showInMobile": "y"
+          },
+          "listOrder": 1,
+          "rateCount": null,
+          "rateAvg": null,
+          "viewInMobile": "y",
+          "status": "a",
+          "dateCreated": "07.10.2018 20:52:07",
+          "dateUpdated": "22.11.2018 17:37:53"
+        },
+        "customer": {
+          "id": 350,
+          "registerType": "n",
+          "customerGroup": null,
+          "code": "VBC15401425225",
+          "name": {
+            "lastName": "shawky ",
+            "firstName": "Mohamed "
+          },
+          "username": null,
+          "email": "mshawky001@gmail.com",
+          "personalInfo": {
+            "phone": {
+              "number": null,
+              "gsmCode": null,
+              "countryCode": null
+            },
+            "gender": "m",
+            "birthDate": null
+          },
+          "nationality": {
+            "id": 234,
+            "code2": "ae",
+            "code3": "are",
+            "currency": {
+              "id": 5,
+              "code": "AED",
+              "name": {
+                "ar": "Birleşik Arap Emirlikleri Dirhem",
+                "en": "Birleşik Arap Emirlikleri Dirhem",
+                "tr": "Birleşik Arap Emirlikleri Dirhem"
+              },
+              "rates": {
+                "manual": 1,
+                "current": 0,
+                "default": "manual"
+              },
+              "status": "a",
+              "dateCreated": "13.09.2018 16:56:11",
+              "dateUpdated": "02.10.2018 11:00:33"
+            },
+            "areaCode": "+971",
+            "gsmCodes": [
+              50,
+              52,
+              54,
+              55,
+              56,
+              58
+            ],
+            "name": {
+              "ar": "الإمارات العربية المتحدة",
+              "de": "Vereinigte Arabische Emirate",
+              "en": "United Arab Emirates",
+              "tr": "Birleşik Arap Emirlikleri"
+            },
+            "isShown": "y",
+            "listOrder": 2,
+            "status": "a",
+            "dateCreated": "12.03.2018 11:27:53",
+            "dateUpdated": null
+          },
+          "isSubscribed": true,
+          "facebookUid": null,
+          "confirmed": "y",
+          "confirmationToken": null,
+          "extraInfo": null,
+          "lastLogin": {
+            "timestamp": 1541628777
+          },
+          "status": "a",
+          "dateCreated": "08.11.2018 01:12:57",
+          "dateUpdated": "08.11.2018 01:12:57"
+        },
+        "rate": 0,
+        "message": "nit original and not the tester even. I don’t recommend this application at all. Please don’t waste your money on any of their products ",
+        "status": "p",
+        "dateCreated": "08.11.2018 01:16:12",
+        "dateUpdated": null
+      },
+      {
+        "id": 4,
+        "product": {
+          "id": 8482,
+          "tsoftUrl": "christian-dior-sauvage-100-ml-edt-for-men-original-tester-perfume",
+          "code": "T242",
+          "title": {
+            "ar": "Christian Dior Sauvage 100 ml EDP For Men",
+            "en": "Christian Dior Sauvage 100 ml EDP For Men"
+          },
+          "styledTitle": {
+            "ar": "<b>Christian Dior</b> Sauvage 100 ml EDP For Men",
+            "en": "<b>Christian Dior</b> Sauvage 100 ml EDP For Men"
+          },
+          "detail": {
+            "ar": "<p>Testers are even more discounted than the fancy boxed versions and are great if you don't have a need for the fancy packaging.<br><br><b>What is a Tester</b><br><br> A tester is a version of a fragrance that comes without the fancy, retail packaging. Tester versions come in the same bottle as the retail version and include the same amount and quality of fragrance. The testers you see on our website are direct from the manufacturer and have never been used. If you'd like to save money on a fragrance for yourself, consider purchasing the tester version of your brand. Please be aware that not all brands have testers available.<br><br><b>What to Expect</b><br><br>In most cases, a tester fragrance will come in a plain white or cardboard box. However, some designers will reduce production costs by distributing their tester products unboxed and without caps. By cap we mean the decorative top, the spray nozzle comes with all spray fragrances. <br><br><strong>This product cannot be returned or exchanged.</strong></p>",
+            "en": "<p>Testers are even more discounted than the fancy boxed versions and are great if you don't have a need for the fancy packaging.<br><br><b>What is a Tester</b><br><br> A tester is a version of a fragrance that comes without the fancy, retail packaging. Tester versions come in the same bottle as the retail version and include the same amount and quality of fragrance. The testers you see on our website are direct from the manufacturer and have never been used. If you'd like to save money on a fragrance for yourself, consider purchasing the tester version of your brand. Please be aware that not all brands have testers available.<br><br><b>What to Expect</b><br><br>In most cases, a tester fragrance will come in a plain white or cardboard box. However, some designers will reduce production costs by distributing their tester products unboxed and without caps. By cap we mean the decorative top, the spray nozzle comes with all spray fragrances. <br><br><strong>This product cannot be returned or exchanged.</strong></p>"
+          },
+          "cover": {
+            "image": "355302.jpg",
+            "title": {
+              "ar": "Christian Dior Sauvage 100 ml EDP For Men",
+              "en": "Christian Dior Sauvage 100 ml EDP For Men"
+            }
+          },
+          "gallery": [
+            {
+              "image": "355302.jpg",
+              "title": {
+                "ar": "Christian Dior Sauvage 100 ml EDP For Men",
+                "en": "Christian Dior Sauvage 100 ml EDP For Men"
+              }
+            }
+          ],
+          "category": {
+            "id": 178,
+            "parentId": 196,
+            "name": {
+              "ar": "Christian Dior",
+              "en": "Christian Dior"
+            },
+            "cover": {
+              "image": "noimage-2.jpg",
+              "title": "Christian Dior"
+            },
+            "listOrder": 18,
+            "showInMobile": true,
+            "status": "a",
+            "dateCreated": "02.10.2018 11:09:17",
+            "dateUpdated": "02.10.2018 11:09:42"
+          },
+          "categories": [
+            {
+              "id": 178,
+              "parentId": 196,
+              "name": {
+                "ar": "Christian Dior",
+                "en": "Christian Dior"
+              },
+              "cover": {
+                "image": "noimage-2.jpg",
+                "title": "Christian Dior"
+              },
+              "listOrder": 18,
+              "showInMobile": true,
+              "status": "a",
+              "dateCreated": "02.10.2018 11:09:17",
+              "dateUpdated": "02.10.2018 11:09:42"
+            }
+          ],
+          "price": {
+            "buy": 33,
+            "sell": 471,
+            "sellWithVat": 235,
+            "sellWithVatWithoutDiscount": 471
+          },
+          "currency": {
+            "id": 4,
+            "code": "SAR",
+            "name": {
+              "ar": "Suudi Arabistan Riyali",
+              "en": "Suudi Arabistan Riyali",
+              "tr": "Suudi Arabistan Riyali"
+            },
+            "rates": {
+              "manual": 1,
+              "current": 1.5937,
+              "default": "manual"
+            },
+            "status": "a",
+            "dateCreated": "13.09.2018 16:56:11",
+            "dateUpdated": "02.10.2018 11:00:33"
+          },
+          "brand": {
+            "id": 119,
+            "logo": null,
+            "name": {
+              "ar": "Christian Dior",
+              "en": "Christian Dior"
+            },
+            "description": null,
+            "campaign": {
+              "isCampaign": false,
+              "campaignDateEnd": null,
+              "campaignDateStart": null
+            },
+            "owner": null,
+            "status": "a",
+            "dateCreated": "02.10.2018 10:59:13",
+            "dateUpdated": "02.10.2018 10:59:21"
+          },
+          "model": null,
+          "supplier": null,
+          "cargo": null,
+          "stock": {
+            "stock": 865,
+            "inStock": "y",
+            "stockUnit": 0
+          },
+          "vat": 0,
+          "hasDiscount": null,
+          "isNew": "y",
+          "visibility": {
+            "showInMobile": "y"
+          },
+          "listOrder": 2,
+          "rateCount": null,
+          "rateAvg": null,
+          "viewInMobile": "y",
+          "status": "a",
+          "dateCreated": "07.10.2018 20:52:08",
+          "dateUpdated": "22.11.2018 17:37:53"
+        },
+        "customer": {
+          "id": 350,
+          "registerType": "n",
+          "customerGroup": null,
+          "code": "VBC15401425225",
+          "name": {
+            "lastName": "shawky ",
+            "firstName": "Mohamed "
+          },
+          "username": null,
+          "email": "mshawky001@gmail.com",
+          "personalInfo": {
+            "phone": {
+              "number": null,
+              "gsmCode": null,
+              "countryCode": null
+            },
+            "gender": "m",
+            "birthDate": null
+          },
+          "nationality": {
+            "id": 234,
+            "code2": "ae",
+            "code3": "are",
+            "currency": {
+              "id": 5,
+              "code": "AED",
+              "name": {
+                "ar": "Birleşik Arap Emirlikleri Dirhem",
+                "en": "Birleşik Arap Emirlikleri Dirhem",
+                "tr": "Birleşik Arap Emirlikleri Dirhem"
+              },
+              "rates": {
+                "manual": 1,
+                "current": 0,
+                "default": "manual"
+              },
+              "status": "a",
+              "dateCreated": "13.09.2018 16:56:11",
+              "dateUpdated": "02.10.2018 11:00:33"
+            },
+            "areaCode": "+971",
+            "gsmCodes": [
+              50,
+              52,
+              54,
+              55,
+              56,
+              58
+            ],
+            "name": {
+              "ar": "الإمارات العربية المتحدة",
+              "de": "Vereinigte Arabische Emirate",
+              "en": "United Arab Emirates",
+              "tr": "Birleşik Arap Emirlikleri"
+            },
+            "isShown": "y",
+            "listOrder": 2,
+            "status": "a",
+            "dateCreated": "12.03.2018 11:27:53",
+            "dateUpdated": null
+          },
+          "isSubscribed": true,
+          "facebookUid": null,
+          "confirmed": "y",
+          "confirmationToken": null,
+          "extraInfo": null,
+          "lastLogin": {
+            "timestamp": 1541628777
+          },
+          "status": "a",
+          "dateCreated": "08.11.2018 01:12:57",
+          "dateUpdated": "08.11.2018 01:12:57"
+        },
+        "rate": 0,
+        "message": "not recommended. None of the products are original. Wast of memory ",
+        "status": "p",
+        "dateCreated": "08.11.2018 01:18:27",
+        "dateUpdated": null
+      },
+      {
+        "id": 5,
+        "product": {
+          "id": 8508,
+          "tsoftUrl": "giorgio-armani-prive-rose-dprimearabie-unisex-100-ml-perfume-original-tester-perfume",
+          "code": "T210",
+          "title": {
+            "ar": "Giorgio Armani Prive Rose D&Prime;Arabie Unisex 100 ml Perfume",
+            "en": "Giorgio Armani Prive Rose D&Prime;Arabie Unisex 100 ml Perfume"
+          },
+          "styledTitle": {
+            "ar": "<b>Giorgio Armani</b> Prive Rose D&Prime;Arabie Unisex 100 ml Perfume",
+            "en": "<b>Giorgio Armani</b> Prive Rose D&Prime;Arabie Unisex 100 ml Perfume"
+          },
+          "detail": {
+            "ar": "<p>Testers are even more discounted than the fancy boxed versions and are great if you don't have a need for the fancy packaging.<br /><br /><b>What is a Tester</b><br /><br /> A tester is a version of a fragrance that comes without the fancy, retail packaging. Tester versions come in the same bottle as the retail version and include the same amount and quality of fragrance. The testers you see on our website are direct from the manufacturer and have never been used. If you'd like to save money on a fragrance for yourself, consider purchasing the tester version of your brand. Please be aware that not all brands have testers available.<br /><br /><b>What to Expect</b><br /><br />In most cases, a tester fragrance will come in a plain white or cardboard box. However, some designers will reduce production costs by distributing their tester products unboxed and without caps. By cap we mean the decorative top, the spray nozzle comes with all spray fragrances. <br /><br /><strong>This product cannot be returned or exchanged.</strong></p>",
+            "en": "<p>Testers are even more discounted than the fancy boxed versions and are great if you don't have a need for the fancy packaging.<br /><br /><b>What is a Tester</b><br /><br /> A tester is a version of a fragrance that comes without the fancy, retail packaging. Tester versions come in the same bottle as the retail version and include the same amount and quality of fragrance. The testers you see on our website are direct from the manufacturer and have never been used. If you'd like to save money on a fragrance for yourself, consider purchasing the tester version of your brand. Please be aware that not all brands have testers available.<br /><br /><b>What to Expect</b><br /><br />In most cases, a tester fragrance will come in a plain white or cardboard box. However, some designers will reduce production costs by distributing their tester products unboxed and without caps. By cap we mean the decorative top, the spray nozzle comes with all spray fragrances. <br /><br /><strong>This product cannot be returned or exchanged.</strong></p>"
+          },
+          "cover": {
+            "image": "355186.jpg",
+            "title": {
+              "ar": "Giorgio Armani Prive Rose D&Prime;Arabie Unisex 100 ml Perfume",
+              "en": "Giorgio Armani Prive Rose D&Prime;Arabie Unisex 100 ml Perfume"
+            }
+          },
+          "gallery": [
+            {
+              "image": "355186.jpg",
+              "title": {
+                "ar": "Giorgio Armani Prive Rose D&Prime;Arabie Unisex 100 ml Perfume",
+                "en": "Giorgio Armani Prive Rose D&Prime;Arabie Unisex 100 ml Perfume"
+              }
+            }
+          ],
+          "category": {
+            "id": 86,
+            "parentId": 195,
+            "name": {
+              "ar": "Giorgio Armani",
+              "en": "Giorgio Armani"
+            },
+            "cover": {
+              "image": "noimage-2.jpg",
+              "title": "Giorgio Armani"
+            },
+            "listOrder": 38,
+            "showInMobile": true,
+            "status": "a",
+            "dateCreated": "02.10.2018 11:09:17",
+            "dateUpdated": "02.10.2018 11:09:42"
+          },
+          "categories": [
+            {
+              "id": 167,
+              "parentId": 196,
+              "name": {
+                "ar": "Giorgio Armani",
+                "en": "Giorgio Armani"
+              },
+              "cover": {
+                "image": "noimage-2.jpg",
+                "title": "Giorgio Armani"
+              },
+              "listOrder": 34,
+              "showInMobile": true,
+              "status": "a",
+              "dateCreated": "02.10.2018 11:09:17",
+              "dateUpdated": "02.10.2018 11:09:42"
+            },
+            {
+              "id": 86,
+              "parentId": 195,
+              "name": {
+                "ar": "Giorgio Armani",
+                "en": "Giorgio Armani"
+              },
+              "cover": {
+                "image": "noimage-2.jpg",
+                "title": "Giorgio Armani"
+              },
+              "listOrder": 38,
+              "showInMobile": true,
+              "status": "a",
+              "dateCreated": "02.10.2018 11:09:17",
+              "dateUpdated": "02.10.2018 11:09:42"
+            }
+          ],
+          "price": {
+            "buy": 31,
+            "sell": 407,
+            "sellWithVat": 204,
+            "sellWithVatWithoutDiscount": 407
+          },
+          "currency": {
+            "id": 4,
+            "code": "SAR",
+            "name": {
+              "ar": "Suudi Arabistan Riyali",
+              "en": "Suudi Arabistan Riyali",
+              "tr": "Suudi Arabistan Riyali"
+            },
+            "rates": {
+              "manual": 1,
+              "current": 1.5937,
+              "default": "manual"
+            },
+            "status": "a",
+            "dateCreated": "13.09.2018 16:56:11",
+            "dateUpdated": "02.10.2018 11:00:33"
+          },
+          "brand": {
+            "id": 140,
+            "logo": null,
+            "name": {
+              "ar": "Giorgio Armani",
+              "en": "Giorgio Armani"
+            },
+            "description": null,
+            "campaign": {
+              "isCampaign": false,
+              "campaignDateEnd": null,
+              "campaignDateStart": null
+            },
+            "owner": null,
+            "status": "a",
+            "dateCreated": "02.10.2018 10:59:13",
+            "dateUpdated": "02.10.2018 10:59:21"
+          },
+          "model": null,
+          "supplier": null,
+          "cargo": null,
+          "stock": {
+            "stock": 992,
+            "inStock": "y",
+            "stockUnit": 0
+          },
+          "vat": 0,
+          "hasDiscount": null,
+          "isNew": "y",
+          "visibility": {
+            "showInMobile": "y"
+          },
+          "listOrder": 30,
+          "rateCount": null,
+          "rateAvg": null,
+          "viewInMobile": "y",
+          "status": "a",
+          "dateCreated": "07.10.2018 20:52:08",
+          "dateUpdated": "22.11.2018 17:37:53"
+        },
+        "customer": {
+          "id": 1037,
+          "registerType": "g",
+          "customerGroup": null,
+          "code": "VBC15409238424",
+          "name": {
+            "lastName": "Svintek",
+            "firstName": "Krisztina"
+          },
+          "username": null,
+          "email": "s.christee@googlemail.com",
+          "personalInfo": {
+            "phone": {
+              "number": null,
+              "gsmCode": null,
+              "countryCode": null
+            },
+            "gender": null,
+            "birthDate": null
+          },
+          "nationality": null,
+          "isSubscribed": true,
+          "facebookUid": null,
+          "confirmed": "y",
+          "confirmationToken": null,
+          "extraInfo": null,
+          "lastLogin": {
+            "timestamp": 1540923845
+          },
+          "status": "a",
+          "dateCreated": "30.10.2018 21:24:05",
+          "dateUpdated": "30.10.2018 21:24:05"
+        },
+        "rate": 1,
+        "message": "Fake item!Do not buy and waste your money!!!Will be reported!",
+        "status": "p",
+        "dateCreated": "13.11.2018 15:47:49",
+        "dateUpdated": null
+      }
+    ],
+    "pagination": {
+      "pageCount": 1,
+      "recordCount": 4,
+      "itemsPerPage": 10,
+      "firstLink": "?offset=0&limit=10",
+      "lastLink": "?offset=0&limit=10",
+      "prevLink": "",
+      "nextLink": "",
+      "currentPage": 1,
+      "circular": false
+    }
+  }
+}

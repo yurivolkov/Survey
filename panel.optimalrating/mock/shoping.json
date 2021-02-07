@@ -1,0 +1,743 @@
+{
+  "code": "200.0000",
+  "message": "Your request has been succesfully cleared.",
+  "result": {
+    "set": [
+      {
+        "customer": {
+          "id": 3,
+          "registerType": "n",
+          "customerGroup": null,
+          "code": "VBC15379483702",
+          "name": {
+            "lastName": "Erbas",
+            "firstName": "Feridun"
+          },
+          "username": null,
+          "email": "feridunerbas@gmail.com",
+          "personalInfo": {
+            "phone": {
+              "number": "12349999",
+              "gsmCode": "",
+              "countryCode": "+973"
+            },
+            "gender": "m",
+            "birthDate": null
+          },
+          "nationality": {
+            "id": 234,
+            "code2": "ae",
+            "code3": "are",
+            "currency": {
+              "id": 5,
+              "code": "AED",
+              "name": {
+                "ar": "Birleşik Arap Emirlikleri Dirhem",
+                "en": "Birleşik Arap Emirlikleri Dirhem",
+                "tr": "Birleşik Arap Emirlikleri Dirhem"
+              },
+              "rates": {
+                "manual": 1,
+                "current": 0,
+                "default": "manual"
+              },
+              "status": "a",
+              "dateCreated": "13.09.2018 16:56:11",
+              "dateUpdated": "02.10.2018 11:00:33"
+            },
+            "areaCode": "+971",
+            "gsmCodes": [
+              50,
+              52,
+              54,
+              55,
+              56,
+              58
+            ],
+            "name": {
+              "ar": "الإمارات العربية المتحدة",
+              "de": "Vereinigte Arabische Emirate",
+              "en": "United Arab Emirates",
+              "tr": "Birleşik Arap Emirlikleri"
+            },
+            "isShown": "y",
+            "listOrder": 2,
+            "status": "a",
+            "dateCreated": "12.03.2018 11:27:53",
+            "dateUpdated": null
+          },
+          "isSubscribed": true,
+          "facebookUid": null,
+          "confirmed": "y",
+          "confirmationToken": null,
+          "extraInfo": null,
+          "lastLogin": {
+            "timestamp": 1542628012
+          },
+          "status": "a",
+          "dateCreated": "20.11.2018 18:24:47",
+          "dateUpdated": "20.11.2018 18:24:47"
+        },
+        "subTotal": "814.00",
+        "discountPrice": "406.00",
+        "total": "408.00",
+        "totalProduct": "1"
+      },
+      {
+        "customer": {
+          "id": 7,
+          "registerType": "f",
+          "customerGroup": null,
+          "code": "VBC15380386165",
+          "name": {
+            "lastName": "Memiş",
+            "firstName": "M Gökhan"
+          },
+          "username": null,
+          "email": "gokhanmms@gmail.com",
+          "personalInfo": {
+            "phone": {
+              "number": "4812494",
+              "gsmCode": "50",
+              "countryCode": "+966"
+            },
+            "gender": "m",
+            "birthDate": "1989-03-27"
+          },
+          "nationality": {
+            "id": 195,
+            "code2": "sa",
+            "code3": "sau",
+            "currency": {
+              "id": 4,
+              "code": "SAR",
+              "name": {
+                "ar": "Suudi Arabistan Riyali",
+                "en": "Suudi Arabistan Riyali",
+                "tr": "Suudi Arabistan Riyali"
+              },
+              "rates": {
+                "manual": 1,
+                "current": 1.5937,
+                "default": "manual"
+              },
+              "status": "a",
+              "dateCreated": "13.09.2018 16:56:11",
+              "dateUpdated": "02.10.2018 11:00:33"
+            },
+            "areaCode": "+966",
+            "gsmCodes": [
+              50,
+              51,
+              53,
+              54,
+              55,
+              56,
+              57,
+              58,
+              59
+            ],
+            "name": {
+              "ar": "السعودية",
+              "de": "Saudi-Arabien",
+              "en": "Saudi Arabia",
+              "tr": "Suudi Arabistan"
+            },
+            "isShown": "y",
+            "listOrder": 1,
+            "status": "a",
+            "dateCreated": "12.03.2018 11:27:52",
+            "dateUpdated": null
+          },
+          "isSubscribed": true,
+          "facebookUid": "10157861849804691",
+          "confirmed": "y",
+          "confirmationToken": null,
+          "extraInfo": null,
+          "lastLogin": {
+            "timestamp": 1542200805
+          },
+          "status": "a",
+          "dateCreated": "14.11.2018 16:06:45",
+          "dateUpdated": "14.11.2018 16:06:45"
+        },
+        "subTotal": "429.00",
+        "discountPrice": "214.00",
+        "total": "215.00",
+        "totalProduct": "1"
+      },
+      {
+        "customer": {
+          "id": 11,
+          "registerType": "g",
+          "customerGroup": null,
+          "code": "VBC15380478818",
+          "name": {
+            "lastName": "gbvg",
+            "firstName": "koray"
+          },
+          "username": null,
+          "email": "deneme@koray.com",
+          "personalInfo": {
+            "phone": {
+              "number": null,
+              "gsmCode": null,
+              "countryCode": null
+            },
+            "gender": null,
+            "birthDate": null
+          },
+          "nationality": {
+            "id": 234,
+            "code2": "ae",
+            "code3": "are",
+            "currency": {
+              "id": 5,
+              "code": "AED",
+              "name": {
+                "ar": "Birleşik Arap Emirlikleri Dirhem",
+                "en": "Birleşik Arap Emirlikleri Dirhem",
+                "tr": "Birleşik Arap Emirlikleri Dirhem"
+              },
+              "rates": {
+                "manual": 1,
+                "current": 0,
+                "default": "manual"
+              },
+              "status": "a",
+              "dateCreated": "13.09.2018 16:56:11",
+              "dateUpdated": "02.10.2018 11:00:33"
+            },
+            "areaCode": "+971",
+            "gsmCodes": [
+              50,
+              52,
+              54,
+              55,
+              56,
+              58
+            ],
+            "name": {
+              "ar": "الإمارات العربية المتحدة",
+              "de": "Vereinigte Arabische Emirate",
+              "en": "United Arab Emirates",
+              "tr": "Birleşik Arap Emirlikleri"
+            },
+            "isShown": "y",
+            "listOrder": 2,
+            "status": "a",
+            "dateCreated": "12.03.2018 11:27:53",
+            "dateUpdated": null
+          },
+          "isSubscribed": true,
+          "facebookUid": null,
+          "confirmed": "y",
+          "confirmationToken": null,
+          "extraInfo": null,
+          "lastLogin": {
+            "timestamp": 1538047882
+          },
+          "status": "a",
+          "dateCreated": "27.09.2018 14:33:27",
+          "dateUpdated": "27.09.2018 14:33:28"
+        },
+        "subTotal": "792.00",
+        "discountPrice": "395.00",
+        "total": "397.00",
+        "totalProduct": "2"
+      },
+      {
+        "customer": {
+          "id": 16,
+          "registerType": "g",
+          "customerGroup": null,
+          "code": "VBC153840692310",
+          "name": {
+            "lastName": "cmcmd",
+            "firstName": "dkdk"
+          },
+          "username": null,
+          "email": "ecem226@gmail.com",
+          "personalInfo": {
+            "phone": {
+              "number": null,
+              "gsmCode": null,
+              "countryCode": null
+            },
+            "gender": null,
+            "birthDate": null
+          },
+          "nationality": null,
+          "isSubscribed": true,
+          "facebookUid": null,
+          "confirmed": "y",
+          "confirmationToken": null,
+          "extraInfo": null,
+          "lastLogin": {
+            "timestamp": 1538406924
+          },
+          "status": "a",
+          "dateCreated": "01.10.2018 18:15:24",
+          "dateUpdated": "01.10.2018 18:15:24"
+        },
+        "subTotal": "319.00",
+        "discountPrice": "159.00",
+        "total": "160.00",
+        "totalProduct": "1"
+      },
+      {
+        "customer": {
+          "id": 19,
+          "registerType": "f",
+          "customerGroup": null,
+          "code": "VBC15384175968",
+          "name": {
+            "lastName": "Memiş",
+            "firstName": "M Gökhan"
+          },
+          "username": null,
+          "email": "gokhanmms@gmail.com",
+          "personalInfo": {
+            "phone": {
+              "number": null,
+              "gsmCode": null,
+              "countryCode": null
+            },
+            "gender": null,
+            "birthDate": "1989-03-27"
+          },
+          "nationality": {
+            "id": 195,
+            "code2": "sa",
+            "code3": "sau",
+            "currency": {
+              "id": 4,
+              "code": "SAR",
+              "name": {
+                "ar": "Suudi Arabistan Riyali",
+                "en": "Suudi Arabistan Riyali",
+                "tr": "Suudi Arabistan Riyali"
+              },
+              "rates": {
+                "manual": 1,
+                "current": 1.5937,
+                "default": "manual"
+              },
+              "status": "a",
+              "dateCreated": "13.09.2018 16:56:11",
+              "dateUpdated": "02.10.2018 11:00:33"
+            },
+            "areaCode": "+966",
+            "gsmCodes": [
+              50,
+              51,
+              53,
+              54,
+              55,
+              56,
+              57,
+              58,
+              59
+            ],
+            "name": {
+              "ar": "السعودية",
+              "de": "Saudi-Arabien",
+              "en": "Saudi Arabia",
+              "tr": "Suudi Arabistan"
+            },
+            "isShown": "y",
+            "listOrder": 1,
+            "status": "a",
+            "dateCreated": "12.03.2018 11:27:52",
+            "dateUpdated": null
+          },
+          "isSubscribed": true,
+          "facebookUid": null,
+          "confirmed": "y",
+          "confirmationToken": null,
+          "extraInfo": null,
+          "lastLogin": {
+            "timestamp": 1538417596
+          },
+          "status": "a",
+          "dateCreated": "02.10.2018 17:56:59",
+          "dateUpdated": "02.10.2018 17:56:59"
+        },
+        "subTotal": "369.00",
+        "discountPrice": "185.00",
+        "total": "184.00",
+        "totalProduct": "1"
+      },
+      {
+        "customer": {
+          "id": 20,
+          "registerType": "n",
+          "customerGroup": null,
+          "code": "VBC15384847302",
+          "name": {
+            "lastName": "Halabi",
+            "firstName": "Ahmed"
+          },
+          "username": null,
+          "email": "ahmedhalania@gmail.com",
+          "personalInfo": {
+            "phone": {
+              "number": null,
+              "gsmCode": null,
+              "countryCode": null
+            },
+            "gender": "m",
+            "birthDate": null
+          },
+          "nationality": {
+            "id": 195,
+            "code2": "sa",
+            "code3": "sau",
+            "currency": {
+              "id": 4,
+              "code": "SAR",
+              "name": {
+                "ar": "Suudi Arabistan Riyali",
+                "en": "Suudi Arabistan Riyali",
+                "tr": "Suudi Arabistan Riyali"
+              },
+              "rates": {
+                "manual": 1,
+                "current": 1.5937,
+                "default": "manual"
+              },
+              "status": "a",
+              "dateCreated": "13.09.2018 16:56:11",
+              "dateUpdated": "02.10.2018 11:00:33"
+            },
+            "areaCode": "+966",
+            "gsmCodes": [
+              50,
+              51,
+              53,
+              54,
+              55,
+              56,
+              57,
+              58,
+              59
+            ],
+            "name": {
+              "ar": "السعودية",
+              "de": "Saudi-Arabien",
+              "en": "Saudi Arabia",
+              "tr": "Suudi Arabistan"
+            },
+            "isShown": "y",
+            "listOrder": 1,
+            "status": "a",
+            "dateCreated": "12.03.2018 11:27:52",
+            "dateUpdated": null
+          },
+          "isSubscribed": true,
+          "facebookUid": null,
+          "confirmed": "y",
+          "confirmationToken": null,
+          "extraInfo": null,
+          "lastLogin": {
+            "timestamp": 1538484731
+          },
+          "status": "a",
+          "dateCreated": "02.10.2018 15:52:11",
+          "dateUpdated": "02.10.2018 15:52:11"
+        },
+        "subTotal": "900.00",
+        "discountPrice": "450.00",
+        "total": "450.00",
+        "totalProduct": "2"
+      },
+      {
+        "customer": {
+          "id": 23,
+          "registerType": "g",
+          "customerGroup": null,
+          "code": "VBC15385537939",
+          "name": {
+            "lastName": "shsgsys",
+            "firstName": "whwhe"
+          },
+          "username": null,
+          "email": "xjdhdhs@gmail.com",
+          "personalInfo": {
+            "phone": {
+              "number": null,
+              "gsmCode": null,
+              "countryCode": null
+            },
+            "gender": null,
+            "birthDate": null
+          },
+          "nationality": {
+            "id": 195,
+            "code2": "sa",
+            "code3": "sau",
+            "currency": {
+              "id": 4,
+              "code": "SAR",
+              "name": {
+                "ar": "Suudi Arabistan Riyali",
+                "en": "Suudi Arabistan Riyali",
+                "tr": "Suudi Arabistan Riyali"
+              },
+              "rates": {
+                "manual": 1,
+                "current": 1.5937,
+                "default": "manual"
+              },
+              "status": "a",
+              "dateCreated": "13.09.2018 16:56:11",
+              "dateUpdated": "02.10.2018 11:00:33"
+            },
+            "areaCode": "+966",
+            "gsmCodes": [
+              50,
+              51,
+              53,
+              54,
+              55,
+              56,
+              57,
+              58,
+              59
+            ],
+            "name": {
+              "ar": "السعودية",
+              "de": "Saudi-Arabien",
+              "en": "Saudi Arabia",
+              "tr": "Suudi Arabistan"
+            },
+            "isShown": "y",
+            "listOrder": 1,
+            "status": "a",
+            "dateCreated": "12.03.2018 11:27:52",
+            "dateUpdated": null
+          },
+          "isSubscribed": true,
+          "facebookUid": null,
+          "confirmed": "y",
+          "confirmationToken": null,
+          "extraInfo": null,
+          "lastLogin": {
+            "timestamp": 1538553794
+          },
+          "status": "a",
+          "dateCreated": "03.10.2018 11:08:00",
+          "dateUpdated": "03.10.2018 11:08:00"
+        },
+        "subTotal": "429.00",
+        "discountPrice": "214.00",
+        "total": "215.00",
+        "totalProduct": "1"
+      },
+      {
+        "customer": {
+          "id": 26,
+          "registerType": "f",
+          "customerGroup": null,
+          "code": "VBC15385609159",
+          "name": {
+            "lastName": "Berkol",
+            "firstName": "Can"
+          },
+          "username": null,
+          "email": "can@berkol.net",
+          "personalInfo": {
+            "phone": {
+              "number": "2356966",
+              "gsmCode": "6",
+              "countryCode": "+965"
+            },
+            "gender": null,
+            "birthDate": null
+          },
+          "nationality": {
+            "id": 120,
+            "code2": "kw",
+            "code3": "kwt",
+            "currency": {
+              "id": 7,
+              "code": "KWD",
+              "name": {
+                "ar": "Kuveyt Dinarı",
+                "en": "Kuveyt Dinarı",
+                "tr": "Kuveyt Dinarı"
+              },
+              "rates": {
+                "manual": 12.5,
+                "current": 19.8124,
+                "default": "manual"
+              },
+              "status": "a",
+              "dateCreated": "13.09.2018 16:56:11",
+              "dateUpdated": "02.10.2018 11:00:33"
+            },
+            "areaCode": "+965",
+            "gsmCodes": [
+              5,
+              6,
+              9
+            ],
+            "name": {
+              "ar": "الكويت",
+              "de": "Kuwait",
+              "en": "Kuwait",
+              "tr": "Kuveyt"
+            },
+            "isShown": "y",
+            "listOrder": 4,
+            "status": "a",
+            "dateCreated": "12.03.2018 11:27:52",
+            "dateUpdated": null
+          },
+          "isSubscribed": true,
+          "facebookUid": "10107388167210543",
+          "confirmed": "y",
+          "confirmationToken": null,
+          "extraInfo": null,
+          "lastLogin": {
+            "timestamp": 1541574571
+          },
+          "status": "a",
+          "dateCreated": "07.11.2018 10:09:31",
+          "dateUpdated": "07.11.2018 10:09:31"
+        },
+        "subTotal": "491.00",
+        "discountPrice": "317.00",
+        "total": "174.00",
+        "totalProduct": "1"
+      },
+      {
+        "customer": {
+          "id": 39,
+          "registerType": "f",
+          "customerGroup": null,
+          "code": "VBC15387219332",
+          "name": {
+            "lastName": "Memiş",
+            "firstName": "M Gökhan"
+          },
+          "username": null,
+          "email": "gokhanmms@gmail.com",
+          "personalInfo": {
+            "phone": {
+              "number": null,
+              "gsmCode": null,
+              "countryCode": null
+            },
+            "gender": null,
+            "birthDate": "1989-03-27"
+          },
+          "nationality": null,
+          "isSubscribed": true,
+          "facebookUid": null,
+          "confirmed": "y",
+          "confirmationToken": null,
+          "extraInfo": null,
+          "lastLogin": {
+            "timestamp": 1538721934
+          },
+          "status": "a",
+          "dateCreated": "05.10.2018 09:45:34",
+          "dateUpdated": "05.10.2018 09:45:34"
+        },
+        "subTotal": "369.00",
+        "discountPrice": "185.00",
+        "total": "184.00",
+        "totalProduct": "1"
+      },
+      {
+        "customer": {
+          "id": 49,
+          "registerType": "t",
+          "customerGroup": null,
+          "code": "VBC15384045521",
+          "name": {
+            "lastName": "temizel",
+            "firstName": "tayfun"
+          },
+          "username": null,
+          "email": "tayfun.temizel@bodevoffice.com",
+          "personalInfo": {
+            "phone": {
+              "number": null,
+              "gsmCode": null,
+              "countryCode": null
+            },
+            "gender": "o",
+            "birthDate": null
+          },
+          "nationality": {
+            "id": 120,
+            "code2": "kw",
+            "code3": "kwt",
+            "currency": {
+              "id": 7,
+              "code": "KWD",
+              "name": {
+                "ar": "Kuveyt Dinarı",
+                "en": "Kuveyt Dinarı",
+                "tr": "Kuveyt Dinarı"
+              },
+              "rates": {
+                "manual": 12.5,
+                "current": 19.8124,
+                "default": "manual"
+              },
+              "status": "a",
+              "dateCreated": "13.09.2018 16:56:11",
+              "dateUpdated": "02.10.2018 11:00:33"
+            },
+            "areaCode": "+965",
+            "gsmCodes": [
+              5,
+              6,
+              9
+            ],
+            "name": {
+              "ar": "الكويت",
+              "de": "Kuwait",
+              "en": "Kuwait",
+              "tr": "Kuveyt"
+            },
+            "isShown": "y",
+            "listOrder": 4,
+            "status": "a",
+            "dateCreated": "12.03.2018 11:27:52",
+            "dateUpdated": null
+          },
+          "isSubscribed": true,
+          "facebookUid": null,
+          "confirmed": "y",
+          "confirmationToken": null,
+          "extraInfo": null,
+          "lastLogin": {
+            "timestamp": 1539066631
+          },
+          "status": "a",
+          "dateCreated": "09.10.2018 09:30:31",
+          "dateUpdated": "09.10.2018 09:30:31"
+        },
+        "subTotal": "429.00",
+        "discountPrice": "214.00",
+        "total": "215.00",
+        "totalProduct": "1"
+      }
+    ],
+    "pagination": {
+      "pageCount": 1,
+      "recordCount": 1,
+      "itemsPerPage": 10,
+      "firstLink": "?offset=0&limit=10",
+      "lastLink": "?offset=0&limit=10",
+      "prevLink": "",
+      "nextLink": "",
+      "currentPage": 1,
+      "circular": false
+    }
+  }
+}

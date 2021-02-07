@@ -1,0 +1,61 @@
+{
+  "close": "Close",
+  "myAccount": "My Account",
+  "logout": "LogOut",
+  "save": "Save",
+  "buttons": {
+    "new": "New",
+    "edit": "Edit",
+    "delete": "Delete",
+    "active": "Active",
+    "passive": "Passive"
+  },
+  "category" : {
+    "components": {
+      "list": "Category List",
+      "detail": "Category Detail"
+    },
+    "input": {
+      "name" : "Name",
+      "code" : "Language Code",
+      "sort_order" : "Sort Order",
+      "parent" : "Parent Category",
+      "status" : "Status"
+    }
+  },
+  "country" : {
+    "datatable": {
+      "name": "Name",
+      "code": "code",
+      "flag": "Flag",
+      "order": "Order"
+    },
+    "components": {
+      "list": "Country List",
+      "detail": "Country Detail"
+    },
+    "input": {
+      "name" : "Name",
+      "code" : "Language Code",
+      "sort_order" : "Sort Order",
+      "parent" : "Parent Category",
+      "status" : "Status"
+    }
+  },
+  "page" : {
+    "datatable": {
+      "title": "Name"
+    },
+    "components": {
+      "list": "P List",
+      "detail": "Country Detail"
+    },
+    "input": {
+      "name" : "Name",
+      "code" : "Language Code",
+      "sort_order" : "Sort Order",
+      "parent" : "Parent Category",
+      "status" : "Status"
+    }
+  }
+}

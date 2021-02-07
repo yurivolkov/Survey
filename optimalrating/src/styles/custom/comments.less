@@ -1,0 +1,45 @@
+.Comments {
+
+  > .Comment {
+    display: flex;
+    padding: 10px 0;
+    border-bottom: 1px solid @colors[lightgrey];
+
+    .UserAvatar {
+      min-width: 32px;
+      margin-right: 10px;
+    }
+
+    .CommentContent {
+      flex: 1;
+      position: relative;
+
+      .CommentAuthor {
+        font-size: 12px;
+        font-weight: bold;
+      }
+    }
+
+    .CommentFooter {
+      font-size: 10px;
+      color: fade(@colors[grey], 50%);
+      
+      .ant-btn {
+        height: auto;
+        font-size: 12px;
+        padding: 0;
+        line-height: 1;
+      }
+
+      .CommentMenuButton {
+        position: absolute;
+        right: 0;
+        top: 0;
+      }
+    }
+
+    &:last-of-type {
+      border-bottom: none;
+    }
+  }
+}

@@ -1,0 +1,1813 @@
+{
+  "code": "200.0000",
+  "message": "Your request has been succesfully cleared.",
+  "result": {
+    "set": [
+      {
+        "id": 2,
+        "code": "mobile15",
+        "type": "ca",
+        "items": [
+          196,
+          195,
+          26,
+          8,
+          7
+        ],
+        "discountType": "r",
+        "discount": 15,
+        "totalCount": 999999,
+        "limitCount": 999911,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "15.10.2018 11:17:00",
+        "endDate": "01.01.2019 11:17:00",
+        "status": "a",
+        "dateCreated": "16.10.2018 23:17:51",
+        "dateUpdated": "16.11.2018 11:03:42"
+      },
+      {
+        "id": 3,
+        "code": "bag15",
+        "type": "ca",
+        "items": [
+          196,
+          195,
+          26,
+          8,
+          7
+        ],
+        "discountType": "r",
+        "discount": 15,
+        "totalCount": 999999,
+        "limitCount": 999977,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "17.10.2018 12:13:00",
+        "endDate": "01.01.2019 12:13:00",
+        "status": "a",
+        "dateCreated": "18.10.2018 12:14:39",
+        "dateUpdated": "28.11.2018 16:57:41"
+      },
+      {
+        "id": 4,
+        "code": "comeback15",
+        "type": "ca",
+        "items": [
+          196,
+          195,
+          26,
+          8,
+          7
+        ],
+        "discountType": "r",
+        "discount": 15,
+        "totalCount": 999999,
+        "limitCount": 999999,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "27.10.2018 02:39:00",
+        "endDate": "01.01.2019 02:39:00",
+        "status": "a",
+        "dateCreated": "28.10.2018 14:39:36",
+        "dateUpdated": "02.11.2018 10:36:17"
+      },
+      {
+        "id": 5,
+        "code": "welcome15",
+        "type": "ca",
+        "items": [
+          196,
+          195,
+          26,
+          8,
+          7
+        ],
+        "discountType": "r",
+        "discount": 15,
+        "totalCount": 999999,
+        "limitCount": 999992,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "28.10.2018 09:37:00",
+        "endDate": "01.01.2019 09:37:00",
+        "status": "a",
+        "dateCreated": "29.10.2018 21:38:20",
+        "dateUpdated": "27.11.2018 05:21:35"
+      },
+      {
+        "id": 6,
+        "code": "extra15",
+        "type": "ca",
+        "items": [
+          196,
+          195,
+          26,
+          8,
+          7
+        ],
+        "discountType": "r",
+        "discount": 15,
+        "totalCount": 999999,
+        "limitCount": 999981,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "29.10.2018 01:14:00",
+        "endDate": "01.01.2019 01:14:00",
+        "status": "a",
+        "dateCreated": "30.10.2018 13:17:41",
+        "dateUpdated": "29.11.2018 18:32:46"
+      },
+      {
+        "id": 7,
+        "code": "enjoy15",
+        "type": "ca",
+        "items": [
+          196,
+          195,
+          26,
+          8,
+          7
+        ],
+        "discountType": "r",
+        "discount": 15,
+        "totalCount": 999999,
+        "limitCount": 999999,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "30.10.2018 12:22:00",
+        "endDate": "01.01.2019 12:22:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 12:23:22",
+        "dateUpdated": "02.11.2018 10:36:43"
+      },
+      {
+        "id": 8,
+        "code": "PRFM10",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 10,
+        "totalCount": 999999,
+        "limitCount": 999999,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "25.07.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:29"
+      },
+      {
+        "id": 9,
+        "code": "FIRST10",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 10,
+        "totalCount": 99999999,
+        "limitCount": 99999999,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "01.03.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 10,
+        "code": "OMG10",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 10,
+        "totalCount": 999999,
+        "limitCount": 999996,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "18.06.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "28.11.2018 23:34:09"
+      },
+      {
+        "id": 11,
+        "code": "APP10",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 10,
+        "totalCount": 999999,
+        "limitCount": 999999,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "10.06.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 12,
+        "code": "NEW10",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 10,
+        "totalCount": 999999,
+        "limitCount": 999998,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "01.05.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "25.11.2018 20:44:15"
+      },
+      {
+        "id": 13,
+        "code": "SE5%DRH",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 5,
+        "totalCount": 1,
+        "limitCount": 1,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "25.10.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 14,
+        "code": "CO5% INC",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 15,
+        "totalCount": 99,
+        "limitCount": 99,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "28.10.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 15,
+        "code": "M127UZDFM8",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 10,
+        "totalCount": 1,
+        "limitCount": 1,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "31.08.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 16,
+        "code": "SORRY5",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 5,
+        "totalCount": 999,
+        "limitCount": 999,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "20.04.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:17:55"
+      },
+      {
+        "id": 17,
+        "code": "5%JJJKPO",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 5,
+        "totalCount": 1,
+        "limitCount": 1,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "04.07.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 18,
+        "code": "UHBU876HK",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 5,
+        "totalCount": 1,
+        "limitCount": 1,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "07.06.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 19,
+        "code": "FATHER10",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 0,
+        "totalCount": 999999,
+        "limitCount": 999999,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "11.06.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 20,
+        "code": "13%ESKI",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 13,
+        "totalCount": 50,
+        "limitCount": 50,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "17.04.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 21,
+        "code": "MIS5%ART",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 5,
+        "totalCount": 50,
+        "limitCount": 50,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "28.04.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 22,
+        "code": "8QG8PMCPAQ",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 15,
+        "totalCount": 1,
+        "limitCount": 1,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "27.09.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 23,
+        "code": "IS5%AA",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 5,
+        "totalCount": 1,
+        "limitCount": 1,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "25.05.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 24,
+        "code": "LKGEGR5%",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 5,
+        "totalCount": 1,
+        "limitCount": 1,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "25.06.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 25,
+        "code": "SPECIAL10",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 10,
+        "totalCount": 999999,
+        "limitCount": 999999,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "21.06.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 26,
+        "code": "AT10%EF",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 10,
+        "totalCount": 1,
+        "limitCount": 1,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "25.05.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 27,
+        "code": "GGMCB2AARP",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 5,
+        "totalCount": 1,
+        "limitCount": 1,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "22.10.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 28,
+        "code": "NON10YY",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 10,
+        "totalCount": 1,
+        "limitCount": 1,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "20.04.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 29,
+        "code": "SATI5%",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 5,
+        "totalCount": 1,
+        "limitCount": 1,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "19.08.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 30,
+        "code": "%5CODE",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 5,
+        "totalCount": 1,
+        "limitCount": 1,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "19.06.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 31,
+        "code": "BH5%OFH",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 5,
+        "totalCount": 100,
+        "limitCount": 100,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "19.04.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 32,
+        "code": "SA1M5I",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 15,
+        "totalCount": 1,
+        "limitCount": 1,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "17.05.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 33,
+        "code": "SGDGWE",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 15,
+        "totalCount": 1,
+        "limitCount": 1,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "14.06.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 34,
+        "code": "OFFER5%",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 5,
+        "totalCount": 100,
+        "limitCount": 100,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "22.06.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 35,
+        "code": "JI2K3MG6ND",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 5,
+        "totalCount": 1,
+        "limitCount": 1,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "12.09.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 36,
+        "code": "TSR6Q8GW3L",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 10,
+        "totalCount": 1,
+        "limitCount": 1,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "10.10.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 37,
+        "code": "1Y3UWZN2JI",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 15,
+        "totalCount": 1,
+        "limitCount": 1,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "09.10.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 38,
+        "code": "5GIFTSDF",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 5,
+        "totalCount": 1,
+        "limitCount": 1,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "07.06.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 39,
+        "code": "BIRTHDAY10",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 10,
+        "totalCount": 999999,
+        "limitCount": 999999,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "07.05.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 40,
+        "code": "MISSYOU10",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 10,
+        "totalCount": 999999,
+        "limitCount": 999999,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "07.05.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 41,
+        "code": "CART10",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 10,
+        "totalCount": 999999,
+        "limitCount": 999999,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "07.05.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 42,
+        "code": "AGFVFO",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 10,
+        "totalCount": 1,
+        "limitCount": 1,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "05.06.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 43,
+        "code": "5%Discount",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 5,
+        "totalCount": 1,
+        "limitCount": 1,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "04.07.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 44,
+        "code": "9MEK877QOK",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 5,
+        "totalCount": 1,
+        "limitCount": 1,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "02.10.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 45,
+        "code": "CO5%INC",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 5,
+        "totalCount": 99,
+        "limitCount": 99,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "06.07.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "31.10.2018 13:16:30"
+      },
+      {
+        "id": 46,
+        "code": "SPECIAL15",
+        "type": "ca",
+        "items": [
+          "*"
+        ],
+        "discountType": "r",
+        "discount": 15,
+        "totalCount": 0,
+        "limitCount": 999984,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "09.04.2018 00:00:00",
+        "endDate": "31.12.2018 23:59:00",
+        "status": "a",
+        "dateCreated": "31.10.2018 13:11:38",
+        "dateUpdated": "28.11.2018 21:23:49"
+      },
+      {
+        "id": 47,
+        "code": "offer11",
+        "type": "ca",
+        "items": [
+          196,
+          195,
+          26,
+          8,
+          7
+        ],
+        "discountType": "r",
+        "discount": 11,
+        "totalCount": 999999,
+        "limitCount": 999971,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "01.11.2018 11:41:00",
+        "endDate": "31.12.2018 11:41:00",
+        "status": "a",
+        "dateCreated": "01.11.2018 11:41:48",
+        "dateUpdated": "15.11.2018 01:33:58"
+      },
+      {
+        "id": 48,
+        "code": "sunday20",
+        "type": "ca",
+        "items": [
+          196,
+          195,
+          26,
+          8,
+          7
+        ],
+        "discountType": "r",
+        "discount": 20,
+        "totalCount": 999999,
+        "limitCount": 999998,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "03.11.2018 08:59:00",
+        "endDate": "06.11.2018 08:59:00",
+        "status": "a",
+        "dateCreated": "04.11.2018 20:59:42",
+        "dateUpdated": "05.11.2018 23:35:07"
+      },
+      {
+        "id": 49,
+        "code": "off20",
+        "type": "ca",
+        "items": [
+          196,
+          195,
+          26,
+          8,
+          7
+        ],
+        "discountType": "r",
+        "discount": 20,
+        "totalCount": 999999,
+        "limitCount": 999995,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "05.11.2018 11:08:00",
+        "endDate": "07.11.2018 11:08:00",
+        "status": "a",
+        "dateCreated": "06.11.2018 11:09:59",
+        "dateUpdated": "06.11.2018 20:03:49"
+      },
+      {
+        "id": 50,
+        "code": "IA15",
+        "type": "ca",
+        "items": [
+          196,
+          195,
+          26,
+          8,
+          7
+        ],
+        "discountType": "r",
+        "discount": 15,
+        "totalCount": 999999,
+        "limitCount": 999999,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "13.11.2018 10:16:00",
+        "endDate": "01.01.2019 10:16:00",
+        "status": "a",
+        "dateCreated": "14.11.2018 10:16:25",
+        "dateUpdated": null
+      },
+      {
+        "id": 51,
+        "code": "sale15",
+        "type": "ca",
+        "items": [
+          196,
+          195,
+          26,
+          8,
+          7
+        ],
+        "discountType": "r",
+        "discount": 15,
+        "totalCount": 999999,
+        "limitCount": 999652,
+        "currency": {
+          "id": 1,
+          "code": "TL",
+          "name": {
+            "ar": "Türk Lirası",
+            "en": "Türk Lirası",
+            "tr": "Türk Lirası"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "minimumBasketAmount": 1,
+        "startDate": "14.11.2018 12:39:00",
+        "endDate": "01.01.2019 12:39:00",
+        "status": "a",
+        "dateCreated": "15.11.2018 12:39:30",
+        "dateUpdated": "29.11.2018 23:00:59"
+      }
+    ],
+    "pagination": {
+      "pageCount": 1,
+      "recordCount": 50,
+      "itemsPerPage": 50,
+      "firstLink": "?offset=0&limit=50",
+      "lastLink": "?offset=0&limit=50",
+      "prevLink": "",
+      "nextLink": "",
+      "currentPage": 1,
+      "circular": false
+    }
+  }
+}

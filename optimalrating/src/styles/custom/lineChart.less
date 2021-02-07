@@ -1,0 +1,53 @@
+.LineChart {
+
+  .Line {
+    display: flex;
+    align-items: center;
+    padding: 4px 8px;
+    cursor: pointer;
+    transition: all .3s;
+
+    &:hover {
+      background-color: fade(@primary-color, 10%);
+    }
+
+    .Label {
+      display: flex;
+      align-items: center;
+      color: @primary-color;
+      width: 200px;
+      min-width: 200px;
+    }
+
+    .Bar {
+      flex: 1;
+      height: 24px;
+      background-color: @colors[lightgrey2];
+      position: relative;
+      text-align: center;
+
+      .BarBg {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 24px;
+        background-color: @primary-color;
+        z-index: 2;
+      }
+
+      span {
+        color: @colors[white];
+        position: relative;
+        z-index: 3;
+        line-height: 24px;
+        font-weight: bold;
+      }
+    }
+  }
+
+  @media screen and (max-width: @size[tablet]) {
+    .Line {
+      display: block;
+    }
+  }
+}

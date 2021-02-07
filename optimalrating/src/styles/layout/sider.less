@@ -1,0 +1,67 @@
+.ant-layout-sider {
+  background-color: @colors[white];
+  position: relative;
+  z-index: 2;
+  box-shadow: 0 2px 12px 0 fade(@colors[black], 10%);
+
+  .ScrollField {
+    overflow-x: hidden;
+  }
+
+  h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 10px;
+    color: @colors[grey];
+    text-transform: uppercase;
+    font-weight: bold;
+    border-bottom: 1px solid @colors[lightgrey];
+  }
+
+  .ant-menu {
+    border: none;
+
+    .ant-menu-submenu {
+
+      .ant-menu-item {
+        height: 30px;
+        line-height: 30px;
+      }
+
+      .ant-menu-submenu-title {
+
+        a {
+          opacity: 0;
+          margin-left: 10px;
+          transition: all .2s;
+
+          .ant-btn {
+            height: 20px;
+            line-height: 20px;
+            border-radius: 4px;
+            padding: 0 4px;
+          }
+
+          span.anticon {
+            font-size: 10px !important;
+          }
+        }
+
+        &:hover {
+
+          a {
+            opacity: 1;
+          }
+        }
+      }
+    }
+  }
+
+  .ant-divider {
+    margin: 12px 0;
+  }
+
+  @media screen and (max-width: @size[tablet]) {
+    display: none;
+  }
+}

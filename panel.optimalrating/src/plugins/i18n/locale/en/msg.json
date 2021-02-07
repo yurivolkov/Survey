@@ -1,0 +1,104 @@
+{
+  "error": {
+    "invalid_credentials": "Username or password is wrong"
+  },
+  "close": "Close",
+  "myAccount": "My Account",
+  "logout": "LogOut",
+  "save": "Save",
+  "inputs": {
+    "upload_image": "Upload Image"
+  },
+  "buttons": {
+    "save": "Save",
+    "new": "New",
+    "edit": "Edit",
+    "delete": "Delete",
+    "active": "Active",
+    "passive": "Passive"
+  },
+  "city": {
+    "updated": "Updated successfully."
+  },
+  "info": {
+    "city": {
+      "created": "City created successfully."
+    },
+    "survey": {
+      "created": "Survey created successfully."
+    },
+    "list": {
+      "surveys": "Survey updated successfully."
+    },
+    "success": {
+      "user": {
+        "updated": "User updated successfully."
+      },
+      "country": {
+        "update": "Updated successfully."
+      }
+    },
+    "translation": {
+      "save": "Updated successfully."
+    },
+    "keyword": {
+      "created": "Keyword created successfully."
+    }
+  },
+  "labels": {
+    "active" : "Active",
+    "passive" : "Passive"
+  },
+  "keyword": {
+    "update" : "Updated successfully.",
+    "updated" : "Updated successfully."
+  },
+  "category" : {
+    "components": {
+      "list": "Category List",
+      "detail": "Category Detail"
+    },
+
+    "input": {
+      "name" : "Name",
+      "code" : "Language Code",
+      "sort_order" : "Sort Order",
+      "parent" : "Parent Category",
+      "status" : "Status"
+    }
+  },
+  "country" : {
+
+
+    "datatable": {
+      "name": "Name",
+      "code": "code",
+      "flag": "Flag",
+      "order": "Order"
+    },
+
+    "components": {
+      "list": "Country List",
+      "detail": "Country Detail"
+    },
+
+    "input": {
+      "name_en" : "English Name",
+      "name" : "Name",
+      "code" : "Code",
+      "flag" : "Flag",
+      "sort_order" : "Order",
+      "status" : "Status"
+    },
+
+    "labels": {
+      "country_admin_password": "Admin Password",
+      "country_admin_password_confirmation": "Admin Password Confirmation",
+      "country_admin": "Admin Username",
+      "list" : "Country List",
+      "new" : "New Country",
+      "edit" : "Edit Country",
+      "delete" : "Delete Country"
+    }
+  }
+}

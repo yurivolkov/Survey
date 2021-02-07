@@ -1,0 +1,42 @@
+.login-wrapper {
+  text-align: center;
+  margin: 0 auto;
+  padding-top: 13%;
+  max-width: 420px;
+  input {
+    border: 0;
+    border-bottom: 1px solid $medium-gray;
+    border-radius: 0;
+    &:focus {
+      border: 0;
+      border-bottom: 1px solid $medium-dark-gray;
+    }
+  }
+  .logo {
+    display: inline-block;
+    margin-bottom: 30px;
+    max-width: 280px;
+    img {
+      width: 100%;
+    }
+  }
+  button[type='submit'] {
+    width: 100%;
+    display: inline-block;
+  }
+  .forgot-pass {
+    display: block;
+    line-height: 44px;
+    text-align: right;
+    a {
+      color: $default-color;
+      &:hover {
+        color: $danger-color;
+      }
+    }
+  }
+  .error-message {
+    display: block;
+    margin-bottom: 1rem;
+  }
+}

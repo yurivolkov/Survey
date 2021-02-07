@@ -1,0 +1,24 @@
+.ant-layout-footer {
+  background-color: @colors[lightgrey];
+  position: relative;
+  z-index: 3;
+  position: relative;
+  left: -248px;
+  width: calc(100% + 248px);
+
+  .Copyright {
+    text-align: center;
+
+    .ant-divider {
+      opacity: 0.5;
+      margin: 0 16px;
+      border-color: @colors[grey];
+    }
+  }
+
+  @media screen and (max-width: @size[tablet]) {
+    padding: 24px 12px;
+    left: 0;
+    width: 100%;
+  }
+}

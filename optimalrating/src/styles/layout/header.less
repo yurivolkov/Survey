@@ -1,0 +1,60 @@
+.ant-layout-header {
+  color: @colors[white];
+  background-color: @primary-color;
+  position: relative;
+  z-index: 2;
+  box-shadow: 0 2px 12px 0 rgba(0,0,0,.1);
+
+  .Logo {
+    height: 40px;
+  }
+
+  .ant-btn {
+    color: @colors[white];
+  }
+
+  .ant-spin-nested-loading {
+    display: inline-block;
+
+    .ant-spin-container {
+      display: initial;
+    }
+  }
+
+  .MobileSiderBtn, .MobileBtn {
+    display: none;
+  }
+
+  @media screen and (max-width: @size[tablet]) {
+    padding: 0 16px;
+
+    > .d-flex {
+      align-items: center;
+
+      a {
+        margin-left: auto;
+      }
+    }
+
+    .Menu {
+      display: none;
+    }
+
+    .MobileSiderBtn {
+      display: block;
+
+      .anticon {
+        font-size: 24px;
+      }
+    }
+
+    .MobileBtn {
+      display: block;
+      margin-left: auto;
+      
+      .anticon {
+        font-size: 24px;
+      }
+    }
+  }
+}

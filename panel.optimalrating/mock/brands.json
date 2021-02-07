@@ -1,0 +1,3068 @@
+{
+  "code": "200.0000",
+  "message": "Your request has been succesfully cleared.",
+  "result": {
+    "set": [
+      {
+        "id": 1,
+        "logo": null,
+        "name": {
+          "ar": "Lady Victoria",
+          "en": "Lady Victoria"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:18"
+      },
+      {
+        "id": 2,
+        "logo": null,
+        "name": {
+          "ar": "Just Cavalli",
+          "en": "Just Cavalli"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:18"
+      },
+      {
+        "id": 3,
+        "logo": null,
+        "name": {
+          "ar": "Infiniti Design",
+          "en": "Infiniti Design"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:18"
+      },
+      {
+        "id": 4,
+        "logo": null,
+        "name": {
+          "ar": "Hawk",
+          "en": "Hawk"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:18"
+      },
+      {
+        "id": 5,
+        "logo": null,
+        "name": {
+          "ar": "Polo 55",
+          "en": "Polo 55"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:18"
+      },
+      {
+        "id": 6,
+        "logo": null,
+        "name": {
+          "ar": "Pierre Cardin",
+          "en": "Pierre Cardin"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:18"
+      },
+      {
+        "id": 7,
+        "logo": null,
+        "name": {
+          "ar": "Paco Loren",
+          "en": "Paco Loren"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:18"
+      },
+      {
+        "id": 8,
+        "logo": null,
+        "name": {
+          "ar": "Oxydo",
+          "en": "Oxydo"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:18"
+      },
+      {
+        "id": 9,
+        "logo": null,
+        "name": {
+          "ar": "Guess",
+          "en": "Guess"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:18"
+      },
+      {
+        "id": 10,
+        "logo": null,
+        "name": {
+          "ar": "G-star Raw",
+          "en": "G-star Raw"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:18"
+      },
+      {
+        "id": 11,
+        "logo": null,
+        "name": {
+          "ar": "Façonnable",
+          "en": "Façonnable"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:18"
+      },
+      {
+        "id": 12,
+        "logo": null,
+        "name": {
+          "ar": "Exess",
+          "en": "Exess"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:18"
+      },
+      {
+        "id": 13,
+        "logo": null,
+        "name": {
+          "ar": "Esprit",
+          "en": "Esprit"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:18"
+      },
+      {
+        "id": 14,
+        "logo": null,
+        "name": {
+          "ar": "De Valentini",
+          "en": "De Valentini"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:18"
+      },
+      {
+        "id": 15,
+        "logo": null,
+        "name": {
+          "ar": "Daniel Klein",
+          "en": "Daniel Klein"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:18"
+      },
+      {
+        "id": 16,
+        "logo": null,
+        "name": {
+          "ar": "Bottega Veneta",
+          "en": "Bottega Veneta"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:18"
+      },
+      {
+        "id": 17,
+        "logo": null,
+        "name": {
+          "ar": "Bluemod",
+          "en": "Bluemod"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:18"
+      },
+      {
+        "id": 18,
+        "logo": null,
+        "name": {
+          "ar": "Bigotti Milano",
+          "en": "Bigotti Milano"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:18"
+      },
+      {
+        "id": 19,
+        "logo": null,
+        "name": {
+          "ar": "Aston Martin",
+          "en": "Aston Martin"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:18"
+      },
+      {
+        "id": 20,
+        "logo": null,
+        "name": {
+          "ar": "Adidas",
+          "en": "Adidas"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:18"
+      },
+      {
+        "id": 21,
+        "logo": null,
+        "name": {
+          "ar": "Zerbap",
+          "en": "Zerbap"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:18"
+      },
+      {
+        "id": 22,
+        "logo": null,
+        "name": {
+          "ar": "Kakao",
+          "en": "Kakao"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:18"
+      },
+      {
+        "id": 23,
+        "logo": null,
+        "name": {
+          "ar": "Trend Takı",
+          "en": "Trend Takı"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:18"
+      },
+      {
+        "id": 24,
+        "logo": null,
+        "name": {
+          "ar": "Brango",
+          "en": "Brango"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:18"
+      },
+      {
+        "id": 25,
+        "logo": null,
+        "name": {
+          "ar": "hyatt beauty",
+          "en": "hyatt beauty"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:18"
+      },
+      {
+        "id": 26,
+        "logo": null,
+        "name": {
+          "ar": "Vichy",
+          "en": "Vichy"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:18"
+      },
+      {
+        "id": 27,
+        "logo": null,
+        "name": {
+          "ar": "Cover İ Fx",
+          "en": "Cover İ Fx"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:18"
+      },
+      {
+        "id": 28,
+        "logo": null,
+        "name": {
+          "ar": "Dermacol",
+          "en": "Dermacol"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 29,
+        "logo": null,
+        "name": {
+          "ar": "Maybelline",
+          "en": "Maybelline"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 30,
+        "logo": null,
+        "name": {
+          "ar": "Voox",
+          "en": "Voox"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 31,
+        "logo": null,
+        "name": {
+          "ar": "The Balm",
+          "en": "The Balm"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 32,
+        "logo": null,
+        "name": {
+          "ar": "NYX",
+          "en": "NYX"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 33,
+        "logo": null,
+        "name": {
+          "ar": "Max Factor",
+          "en": "Max Factor"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 34,
+        "logo": null,
+        "name": {
+          "ar": "Nars",
+          "en": "Nars"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 35,
+        "logo": null,
+        "name": {
+          "ar": "Anastasia",
+          "en": "Anastasia"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 36,
+        "logo": null,
+        "name": {
+          "ar": "Kryolan",
+          "en": "Kryolan"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 37,
+        "logo": null,
+        "name": {
+          "ar": "Tarte",
+          "en": "Tarte"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 38,
+        "logo": null,
+        "name": {
+          "ar": "Urban Decay",
+          "en": "Urban Decay"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 39,
+        "logo": null,
+        "name": {
+          "ar": "Mac",
+          "en": "Mac"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 40,
+        "logo": null,
+        "name": {
+          "ar": "Kylie",
+          "en": "Kylie"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 41,
+        "logo": null,
+        "name": {
+          "ar": "Huda Beauty",
+          "en": "Huda Beauty"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 42,
+        "logo": null,
+        "name": {
+          "ar": "Anastasia Beverly Hills",
+          "en": "Anastasia Beverly Hills"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 43,
+        "logo": null,
+        "name": {
+          "ar": "Dose of Colors",
+          "en": "Dose of Colors"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 44,
+        "logo": null,
+        "name": {
+          "ar": "Beverly Hills",
+          "en": "Beverly Hills"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 45,
+        "logo": null,
+        "name": {
+          "ar": "Elite",
+          "en": "Elite"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 46,
+        "logo": null,
+        "name": {
+          "ar": "Catherine Arley",
+          "en": "Catherine Arley"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 47,
+        "logo": null,
+        "name": {
+          "ar": "Ebru ŞALLI by THALIA",
+          "en": "Ebru ŞALLI by THALIA"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 48,
+        "logo": null,
+        "name": {
+          "ar": "Thalia",
+          "en": "Thalia"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 49,
+        "logo": null,
+        "name": {
+          "ar": "The Beautiful Mind Series",
+          "en": "The Beautiful Mind Series"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 50,
+        "logo": null,
+        "name": {
+          "ar": "Renagades",
+          "en": "Renagades"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 51,
+        "logo": null,
+        "name": {
+          "ar": "Mont Blanc",
+          "en": "Mont Blanc"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 52,
+        "logo": null,
+        "name": {
+          "ar": "Map Of The Heart",
+          "en": "Map Of The Heart"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 53,
+        "logo": null,
+        "name": {
+          "ar": "Zarkoperfume",
+          "en": "Zarkoperfume"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 54,
+        "logo": null,
+        "name": {
+          "ar": "Ajmal",
+          "en": "Ajmal"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 55,
+        "logo": null,
+        "name": {
+          "ar": "Maison Francis Kurkdjian",
+          "en": "Maison Francis Kurkdjian"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 56,
+        "logo": null,
+        "name": {
+          "ar": "Nassomatto",
+          "en": "Nassomatto"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 57,
+        "logo": null,
+        "name": {
+          "ar": "Nargiso",
+          "en": "Nargiso"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 58,
+        "logo": null,
+        "name": {
+          "ar": "By Redo",
+          "en": "By Redo"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 59,
+        "logo": null,
+        "name": {
+          "ar": "Dolce Gabbanna",
+          "en": "Dolce Gabbanna"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 60,
+        "logo": null,
+        "name": {
+          "ar": "Maison Francis Kurkdijan Paris",
+          "en": "Maison Francis Kurkdijan Paris"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 61,
+        "logo": null,
+        "name": {
+          "ar": "Van Cleef & Arpels",
+          "en": "Van Cleef & Arpels"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 62,
+        "logo": null,
+        "name": {
+          "ar": "Oscent",
+          "en": "Oscent"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 63,
+        "logo": null,
+        "name": {
+          "ar": "Simimi",
+          "en": "Simimi"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 64,
+        "logo": null,
+        "name": {
+          "ar": "The House Of Oud",
+          "en": "The House Of Oud"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 65,
+        "logo": null,
+        "name": {
+          "ar": "Maison Francis Kurkdjian Paris",
+          "en": "Maison Francis Kurkdjian Paris"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 66,
+        "logo": null,
+        "name": {
+          "ar": "Jimmy Choo",
+          "en": "Jimmy Choo"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 67,
+        "logo": null,
+        "name": {
+          "ar": "Alalia",
+          "en": "Alalia"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:19"
+      },
+      {
+        "id": 68,
+        "logo": null,
+        "name": {
+          "ar": "Michael Kors",
+          "en": "Michael Kors"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 69,
+        "logo": null,
+        "name": {
+          "ar": "Marc Jacobs",
+          "en": "Marc Jacobs"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 70,
+        "logo": null,
+        "name": {
+          "ar": "Cacharel",
+          "en": "Cacharel"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 71,
+        "logo": null,
+        "name": {
+          "ar": "Chloe",
+          "en": "Chloe"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 72,
+        "logo": null,
+        "name": {
+          "ar": "DKNY",
+          "en": "DKNY"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 73,
+        "logo": null,
+        "name": {
+          "ar": "Comme Des Garçons",
+          "en": "Comme Des Garçons"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 74,
+        "logo": null,
+        "name": {
+          "ar": "Azzaro",
+          "en": "Azzaro"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 75,
+        "logo": null,
+        "name": {
+          "ar": "Armand",
+          "en": "Armand"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 76,
+        "logo": null,
+        "name": {
+          "ar": "Cerruti",
+          "en": "Cerruti"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 77,
+        "logo": null,
+        "name": {
+          "ar": "DKYN",
+          "en": "DKYN"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 78,
+        "logo": null,
+        "name": {
+          "ar": "Escada",
+          "en": "Escada"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 79,
+        "logo": null,
+        "name": {
+          "ar": "Juliette",
+          "en": "Juliette"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 80,
+        "logo": null,
+        "name": {
+          "ar": "Lanvin",
+          "en": "Lanvin"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 81,
+        "logo": null,
+        "name": {
+          "ar": "Moschino",
+          "en": "Moschino"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 82,
+        "logo": null,
+        "name": {
+          "ar": "Nina Ricci",
+          "en": "Nina Ricci"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 83,
+        "logo": null,
+        "name": {
+          "ar": "Salvatore",
+          "en": "Salvatore"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 84,
+        "logo": null,
+        "name": {
+          "ar": "Sergio Tacchini",
+          "en": "Sergio Tacchini"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 85,
+        "logo": null,
+        "name": {
+          "ar": "Tiziana",
+          "en": "Tiziana"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 86,
+        "logo": null,
+        "name": {
+          "ar": "Narciso",
+          "en": "Narciso"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 87,
+        "logo": null,
+        "name": {
+          "ar": "Rihanna",
+          "en": "Rihanna"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 88,
+        "logo": null,
+        "name": {
+          "ar": "Prada",
+          "en": "Prada"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 89,
+        "logo": null,
+        "name": {
+          "ar": "Alexandre.J",
+          "en": "Alexandre.J"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 90,
+        "logo": null,
+        "name": {
+          "ar": "Louis Vuitton",
+          "en": "Louis Vuitton"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 91,
+        "logo": null,
+        "name": {
+          "ar": "Shiseido",
+          "en": "Shiseido"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 92,
+        "logo": null,
+        "name": {
+          "ar": "Lancome",
+          "en": "Lancome"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 93,
+        "logo": null,
+        "name": {
+          "ar": "Balenciaga",
+          "en": "Balenciaga"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 94,
+        "logo": null,
+        "name": {
+          "ar": "Elie Saab",
+          "en": "Elie Saab"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 95,
+        "logo": null,
+        "name": {
+          "ar": "Moresque",
+          "en": "Moresque"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 96,
+        "logo": null,
+        "name": {
+          "ar": "Victoria's Secret",
+          "en": "Victoria's Secret"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 97,
+        "logo": null,
+        "name": {
+          "ar": "Xerjoff",
+          "en": "Xerjoff"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 98,
+        "logo": null,
+        "name": {
+          "ar": "Atelier Cologne",
+          "en": "Atelier Cologne"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 99,
+        "logo": null,
+        "name": {
+          "ar": "Frederic Malle",
+          "en": "Frederic Malle"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 100,
+        "logo": null,
+        "name": {
+          "ar": "Clive Christian",
+          "en": "Clive Christian"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 101,
+        "logo": null,
+        "name": {
+          "ar": "Jo Malone",
+          "en": "Jo Malone"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 102,
+        "logo": null,
+        "name": {
+          "ar": "Abercrombie",
+          "en": "Abercrombie"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 103,
+        "logo": null,
+        "name": {
+          "ar": "AJ Arabia",
+          "en": "AJ Arabia"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 104,
+        "logo": null,
+        "name": {
+          "ar": "Terre D'Hermes",
+          "en": "Terre D'Hermes"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 105,
+        "logo": null,
+        "name": {
+          "ar": "Guerlain",
+          "en": "Guerlain"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 106,
+        "logo": null,
+        "name": {
+          "ar": "Issey Miyake",
+          "en": "Issey Miyake"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 107,
+        "logo": null,
+        "name": {
+          "ar": "Chanel",
+          "en": "Chanel"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:20"
+      },
+      {
+        "id": 108,
+        "logo": null,
+        "name": {
+          "ar": "Parma",
+          "en": "Parma"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 109,
+        "logo": null,
+        "name": {
+          "ar": "Costume National",
+          "en": "Costume National"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 110,
+        "logo": null,
+        "name": {
+          "ar": "Escentric Molecule",
+          "en": "Escentric Molecule"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 111,
+        "logo": null,
+        "name": {
+          "ar": "Thierry Mugler",
+          "en": "Thierry Mugler"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 112,
+        "logo": null,
+        "name": {
+          "ar": "Atkinsons",
+          "en": "Atkinsons"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:12",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 113,
+        "logo": null,
+        "name": {
+          "ar": "Creed",
+          "en": "Creed"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 114,
+        "logo": null,
+        "name": {
+          "ar": "Ex Nihilo",
+          "en": "Ex Nihilo"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 115,
+        "logo": null,
+        "name": {
+          "ar": "Jean Paul Gaultier",
+          "en": "Jean Paul Gaultier"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 116,
+        "logo": null,
+        "name": {
+          "ar": "Nasomatto",
+          "en": "Nasomatto"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 117,
+        "logo": null,
+        "name": {
+          "ar": "Byredo",
+          "en": "Byredo"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 118,
+        "logo": null,
+        "name": {
+          "ar": "Casamorati",
+          "en": "Casamorati"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 119,
+        "logo": null,
+        "name": {
+          "ar": "Christian Dior",
+          "en": "Christian Dior"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 120,
+        "logo": null,
+        "name": {
+          "ar": "Clinique",
+          "en": "Clinique"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 121,
+        "logo": null,
+        "name": {
+          "ar": "Diesel",
+          "en": "Diesel"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 122,
+        "logo": null,
+        "name": {
+          "ar": "Dolce&Gabbana",
+          "en": "Dolce&Gabbana"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 123,
+        "logo": null,
+        "name": {
+          "ar": "Eisenberg",
+          "en": "Eisenberg"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 124,
+        "logo": null,
+        "name": {
+          "ar": "Emporio Armani",
+          "en": "Emporio Armani"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 125,
+        "logo": null,
+        "name": {
+          "ar": "Hermes",
+          "en": "Hermes"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 126,
+        "logo": null,
+        "name": {
+          "ar": "Hugo Boss",
+          "en": "Hugo Boss"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 127,
+        "logo": null,
+        "name": {
+          "ar": "Lacoste",
+          "en": "Lacoste"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 128,
+        "logo": null,
+        "name": {
+          "ar": "Memo Paris",
+          "en": "Memo Paris"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 129,
+        "logo": null,
+        "name": {
+          "ar": "Mercedes",
+          "en": "Mercedes"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 130,
+        "logo": null,
+        "name": {
+          "ar": "Molecule",
+          "en": "Molecule"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 131,
+        "logo": null,
+        "name": {
+          "ar": "Mont",
+          "en": "Mont"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 132,
+        "logo": null,
+        "name": {
+          "ar": "Roja",
+          "en": "Roja"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 133,
+        "logo": null,
+        "name": {
+          "ar": "Serge Lutens",
+          "en": "Serge Lutens"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 134,
+        "logo": null,
+        "name": {
+          "ar": "Zadig",
+          "en": "Zadig"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 135,
+        "logo": null,
+        "name": {
+          "ar": "Mancera",
+          "en": "Mancera"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 136,
+        "logo": null,
+        "name": {
+          "ar": "Rochas",
+          "en": "Rochas"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 137,
+        "logo": null,
+        "name": {
+          "ar": "Roberto Cavalli",
+          "en": "Roberto Cavalli"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 138,
+        "logo": null,
+        "name": {
+          "ar": "Trussardi",
+          "en": "Trussardi"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 139,
+        "logo": null,
+        "name": {
+          "ar": "Estee Lauder",
+          "en": "Estee Lauder"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 140,
+        "logo": null,
+        "name": {
+          "ar": "Giorgio Armani",
+          "en": "Giorgio Armani"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 141,
+        "logo": null,
+        "name": {
+          "ar": "Carolina Herrera",
+          "en": "Carolina Herrera"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 142,
+        "logo": null,
+        "name": {
+          "ar": "Burberry",
+          "en": "Burberry"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 143,
+        "logo": null,
+        "name": {
+          "ar": "Valentino",
+          "en": "Valentino"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 144,
+        "logo": null,
+        "name": {
+          "ar": "Versace",
+          "en": "Versace"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 145,
+        "logo": null,
+        "name": {
+          "ar": "Viktor Rolf",
+          "en": "Viktor Rolf"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 146,
+        "logo": null,
+        "name": {
+          "ar": "Sospiro",
+          "en": "Sospiro"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 147,
+        "logo": null,
+        "name": {
+          "ar": "Lalique",
+          "en": "Lalique"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 148,
+        "logo": null,
+        "name": {
+          "ar": "Montale",
+          "en": "Montale"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 149,
+        "logo": null,
+        "name": {
+          "ar": "Amouage",
+          "en": "Amouage"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 150,
+        "logo": null,
+        "name": {
+          "ar": "By Kilian",
+          "en": "By Kilian"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 151,
+        "logo": null,
+        "name": {
+          "ar": "Paco Rabanne",
+          "en": "Paco Rabanne"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:21"
+      },
+      {
+        "id": 152,
+        "logo": null,
+        "name": {
+          "ar": "Franck Boclet",
+          "en": "Franck Boclet"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:22"
+      },
+      {
+        "id": 153,
+        "logo": null,
+        "name": {
+          "ar": "Antonio Banderas",
+          "en": "Antonio Banderas"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:22"
+      },
+      {
+        "id": 154,
+        "logo": null,
+        "name": {
+          "ar": "Baldessarini",
+          "en": "Baldessarini"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:22"
+      },
+      {
+        "id": 155,
+        "logo": null,
+        "name": {
+          "ar": "Calvin Klein",
+          "en": "Calvin Klein"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:22"
+      },
+      {
+        "id": 156,
+        "logo": null,
+        "name": {
+          "ar": "Gucci",
+          "en": "Gucci"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:22"
+      },
+      {
+        "id": 157,
+        "logo": null,
+        "name": {
+          "ar": "Joop",
+          "en": "Joop"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:22"
+      },
+      {
+        "id": 158,
+        "logo": null,
+        "name": {
+          "ar": "Yves Saint Laurent",
+          "en": "Yves Saint Laurent"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:22"
+      },
+      {
+        "id": 159,
+        "logo": null,
+        "name": {
+          "ar": "David Beckham",
+          "en": "David Beckham"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:22"
+      },
+      {
+        "id": 160,
+        "logo": null,
+        "name": {
+          "ar": "Shaik",
+          "en": "Shaik"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:22"
+      },
+      {
+        "id": 161,
+        "logo": null,
+        "name": {
+          "ar": "Givenchy",
+          "en": "Givenchy"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:22"
+      },
+      {
+        "id": 162,
+        "logo": null,
+        "name": {
+          "ar": "Kenzo",
+          "en": "Kenzo"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:22"
+      },
+      {
+        "id": 163,
+        "logo": null,
+        "name": {
+          "ar": "Cartier",
+          "en": "Cartier"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:22"
+      },
+      {
+        "id": 164,
+        "logo": null,
+        "name": {
+          "ar": "Tom Ford",
+          "en": "Tom Ford"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:22"
+      },
+      {
+        "id": 165,
+        "logo": null,
+        "name": {
+          "ar": "Marley",
+          "en": "Marley"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:22"
+      },
+      {
+        "id": 166,
+        "logo": null,
+        "name": {
+          "ar": "Davidoff",
+          "en": "Davidoff"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:22"
+      },
+      {
+        "id": 167,
+        "logo": null,
+        "name": {
+          "ar": "Penhaligon's",
+          "en": "Penhaligon's"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:22"
+      },
+      {
+        "id": 168,
+        "logo": null,
+        "name": {
+          "ar": "Le Labo",
+          "en": "Le Labo"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:22"
+      },
+      {
+        "id": 169,
+        "logo": null,
+        "name": {
+          "ar": "Bvlgari",
+          "en": "Bvlgari"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:22"
+      },
+      {
+        "id": 170,
+        "logo": null,
+        "name": {
+          "ar": "Bond No.9",
+          "en": "Bond No.9"
+        },
+        "description": null,
+        "campaign": {
+          "isCampaign": false,
+          "campaignDateEnd": null,
+          "campaignDateStart": null
+        },
+        "owner": null,
+        "status": "a",
+        "dateCreated": "02.10.2018 10:59:13",
+        "dateUpdated": "02.10.2018 10:59:22"
+      }
+    ]
+  }
+}

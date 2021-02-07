@@ -1,0 +1,56 @@
+{
+  "name": "optimal-react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/icons": "^4.2.1",
+    "antd": "^4.4.2",
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "i18next": "^19.6.0",
+    "lodash": "^4.17.19",
+    "moment": "^2.27.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-i18next": "^11.7.0",
+    "react-phone-input-2": "^2.13.7",
+    "react-phone-number-input": "^3.0.24",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.1",
+    "react-share": "^4.2.1",
+    "recharts": "^1.8.5",
+    "redux": "^4.0.5",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {
+    "update": "ncu -u && rm -rf node_modules && npm i",
+    "build-css": "lessc src/styles/main.less ./src/styles/main.css --js",
+    "watch-css": "less-watch-compiler src/ ./src --enable-js --main-file ./styles/main.less",
+    "start": "react-scripts start",
+    "build": "rm -rf build && npm run build-css && react-scripts build && npm run commit",
+    "build-only": "npm run build-css && react-scripts build",
+    "connect": "sshpass -p Ptmlrtng1! ssh -o StrictHostKeyChecking=no muratdinler@merlinkitap.com",
+    "commit": "git add . && git commit -m \"update\" && git push origin master"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "less": "^3.11.3",
+    "less-watch-compiler": "^1.14.6"
+  }
+}

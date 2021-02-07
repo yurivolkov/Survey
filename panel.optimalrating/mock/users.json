@@ -1,0 +1,175 @@
+{
+  "code": "200.0000",
+  "message": "Your request has been succesfully cleared.",
+  "result": {
+    "set": [
+      {
+        "id": 1,
+        "email": "bedriye.devirdi@alo-tech.com",
+        "username": "Alotech 1",
+        "name": {
+          "lastName": null,
+          "firstName": "Alotech"
+        },
+        "lastLogin": {
+          "agent": null,
+          "timestamp": null
+        },
+        "status": "a",
+        "dateCreated": "19.03.2018 08:37:21",
+        "dateUpdated": null
+      },
+      {
+        "id": 2,
+        "email": "tm70@tsoft.com.tr",
+        "username": "callcenter-alotech",
+        "name": {
+          "lastName": null,
+          "firstName": "callcenter-alotech"
+        },
+        "lastLogin": {
+          "agent": null,
+          "timestamp": null
+        },
+        "status": "a",
+        "dateCreated": "19.03.2018 08:37:21",
+        "dateUpdated": null
+      },
+      {
+        "id": 3,
+        "email": "koray.dinc@vipbrands.com",
+        "username": "koray.dinc",
+        "name": {
+          "lastName": null,
+          "firstName": "koray.dinc"
+        },
+        "lastLogin": {
+          "agent": null,
+          "timestamp": null
+        },
+        "status": "a",
+        "dateCreated": "19.03.2018 08:37:21",
+        "dateUpdated": null
+      },
+      {
+        "id": 4,
+        "email": "admin@tsoft.com",
+        "username": "ws_admin",
+        "name": {
+          "lastName": null,
+          "firstName": "ws_admin"
+        },
+        "lastLogin": {
+          "agent": null,
+          "timestamp": null
+        },
+        "status": "a",
+        "dateCreated": "19.03.2018 08:37:21",
+        "dateUpdated": null
+      },
+      {
+        "id": 5,
+        "email": "admin@admin.com.tr",
+        "username": "admin",
+        "name": {
+          "lastName": null,
+          "firstName": "admin"
+        },
+        "lastLogin": {
+          "agent": null,
+          "timestamp": null
+        },
+        "status": "i",
+        "dateCreated": "19.03.2018 08:37:21",
+        "dateUpdated": null
+      },
+      {
+        "id": 6,
+        "email": "onur.kaplan@revotas.com",
+        "username": "Revotas",
+        "name": {
+          "lastName": null,
+          "firstName": "Revotas"
+        },
+        "lastLogin": {
+          "agent": null,
+          "timestamp": null
+        },
+        "status": "a",
+        "dateCreated": "19.03.2018 08:37:21",
+        "dateUpdated": null
+      },
+      {
+        "id": 7,
+        "email": "whatsapp@vipbrands.com",
+        "username": "whatsapp",
+        "name": {
+          "lastName": null,
+          "firstName": "whatsapp"
+        },
+        "lastLogin": {
+          "agent": null,
+          "timestamp": null
+        },
+        "status": "a",
+        "dateCreated": "19.03.2018 08:37:21",
+        "dateUpdated": null
+      },
+      {
+        "id": 8,
+        "email": "member@bodevoffice.com",
+        "username": "member@bodevoffice.com",
+        "name": {
+          "lastName": null,
+          "firstName": "member@bodevoffice.com"
+        },
+        "lastLogin": {
+          "agent": null,
+          "timestamp": 1543522847
+        },
+        "status": "a",
+        "dateCreated": "19.03.2018 08:37:21",
+        "dateUpdated": "29.11.2018 23:20:47"
+      },
+      {
+        "id": 9,
+        "email": "incomplete@724perfumes.com",
+        "username": "incomplete",
+        "name": {
+          "lastName": null,
+          "firstName": "Order"
+        },
+        "lastLogin": {
+          "timestamp": 1543491983
+        },
+        "status": "a",
+        "dateCreated": "26.05.2018 18:33:26",
+        "dateUpdated": "29.11.2018 14:46:23"
+      },
+      {
+        "id": 10,
+        "email": "bircan.tuner@bodevoffice.com",
+        "username": "btuner",
+        "name": {
+          "lastName": "Tuner",
+          "firstName": "Bircan"
+        },
+        "lastLogin": null,
+        "status": "a",
+        "dateCreated": "27.05.2018 22:35:43",
+        "dateUpdated": null
+      }
+    ],
+    "pagination": {
+      "pageCount": 2,
+      "recordCount": 12,
+      "itemsPerPage": 10,
+      "firstLink": "?offset=0&limit=10",
+      "lastLink": "?offset=10&limit=10",
+      "prevLink": "",
+      "nextLink": "?offset=10&limit=10",
+      "currentPage": 1,
+      "circular": false
+    }
+  }
+}

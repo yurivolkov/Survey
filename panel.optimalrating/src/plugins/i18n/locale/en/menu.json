@@ -1,0 +1,66 @@
+{
+  "dashboard": {
+    "text":  "Dashboard",
+    "route": "/admin/dashboard"
+  },
+  "category": {
+    "text":  "Category",
+    "route": "/admin/category"
+  },
+  "country": {
+    "text":  "Country",
+    "route": "/admin/country"
+  },
+  "keywords": {
+    "text":  "Keywords",
+    "route": "/admin/keywords"
+  },
+  "addCities":{
+    "text":  "Add Cities",
+    "route": "/admin/add-cities"
+  },
+  "members": {
+    "text":  "Members",
+    "route": "/admin/members"
+  },
+  "pageManagement": {
+    "text":  "Page Management",
+    "route": "/admin/page-management"
+  },
+  "administrator":{
+    "text":  "Administrator",
+    "route": "/admin/administrator"
+  },
+  "chat":{
+    "text":  "Chat",
+    "route": "/admin/chat"
+  },
+  "surveyApproval":{
+    "text":  "Survey Approval",
+    "route": "/admin/survey-approval"
+  },
+  "specialSurvey": {
+    "text":  "Special Survey",
+    "route": "/admin/special-survey"
+  },
+  "comments": {
+    "text":  "Comments",
+    "route": "/admin/comments"
+  },
+  "staticalManagement": {
+    "text":  "Statical Management",
+    "route": "/admin/statical-management"
+  },
+  "messageManagement": {
+    "text":  "Message Management",
+    "route": "/admin/message-management"
+  },
+  "commentManagement": {
+    "text":  "Comment Management",
+    "route": "/admin/comment-management"
+  },
+  "incomeReports": {
+    "text":  "Income Reports",
+    "route": "/admin/income-reports"
+  }
+}

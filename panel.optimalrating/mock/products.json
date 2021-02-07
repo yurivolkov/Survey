@@ -1,0 +1,1383 @@
+{
+  "code": "200.0000",
+  "message": "Your request has been succesfully cleared.",
+  "result": {
+    "set": [
+      {
+        "id": 8464,
+        "tsoftUrl": "chanel-bleu-de-chanel-100-ml-edt-for-men-original-tester-perfume",
+        "code": "T261",
+        "title": {
+          "ar": "Chanel Blue De Chanel 100 ml EDP For Men",
+          "en": "Chanel Blue De Chanel 100 ml EDP For Men"
+        },
+        "styledTitle": {
+          "ar": "<b>Chanel</b> Blue De <b>Chanel</b> 100 ml EDP For Men",
+          "en": "<b>Chanel</b> Blue De <b>Chanel</b> 100 ml EDP For Men"
+        },
+        "detail": {
+          "ar": "<p>Testers are even more discounted than the fancy boxed versions and are great if you don't have a need for the fancy packaging.<br /><br /><b>What is a Tester</b><br /><br /> A tester is a version of a fragrance that comes without the fancy, retail packaging. Tester versions come in the same bottle as the retail version and include the same amount and quality of fragrance. The testers you see on our website are direct from the manufacturer and have never been used. If you'd like to save money on a fragrance for yourself, consider purchasing the tester version of your brand. Please be aware that not all brands have testers available.<br /><br /><b>What to Expect</b><br /><br />In most cases, a tester fragrance will come in a plain white or cardboard box. However, some designers will reduce production costs by distributing their tester products unboxed and without caps. By cap we mean the decorative top, the spray nozzle comes with all spray fragrances. <br /><br /><strong>This product cannot be returned or exchanged.</strong></p>",
+          "en": "<p>Testers are even more discounted than the fancy boxed versions and are great if you don't have a need for the fancy packaging.<br /><br /><b>What is a Tester</b><br /><br /> A tester is a version of a fragrance that comes without the fancy, retail packaging. Tester versions come in the same bottle as the retail version and include the same amount and quality of fragrance. The testers you see on our website are direct from the manufacturer and have never been used. If you'd like to save money on a fragrance for yourself, consider purchasing the tester version of your brand. Please be aware that not all brands have testers available.<br /><br /><b>What to Expect</b><br /><br />In most cases, a tester fragrance will come in a plain white or cardboard box. However, some designers will reduce production costs by distributing their tester products unboxed and without caps. By cap we mean the decorative top, the spray nozzle comes with all spray fragrances. <br /><br /><strong>This product cannot be returned or exchanged.</strong></p>"
+        },
+
+        "cover": {
+          "image": "153909396064.jpg",
+          "title": {
+            "ar": "Chanel Blue De Chanel 100 ml EDP For Men",
+            "en": "Chanel Blue De Chanel 100 ml EDP For Men"
+          }
+        },
+        "gallery": [
+          {
+            "image": "153909396064.jpg",
+            "title": {
+              "ar": "Chanel Blue De Chanel 100 ml EDP For Men",
+              "en": "Chanel Blue De Chanel 100 ml EDP For Men"
+            }
+          }
+        ],
+
+        "category": {
+          "id": 179,
+          "parentId": 196,
+          "name": {
+            "ar": "Chanel",
+            "en": "Chanel"
+          },
+          "cover": {
+            "image": "noimage-2.jpg",
+            "title": "Chanel"
+          },
+          "listOrder": 17,
+          "showInMobile": true,
+          "status": "a",
+          "dateCreated": "02.10.2018 11:09:17",
+          "dateUpdated": "02.10.2018 11:09:42"
+        },
+        "categories": [
+          {
+            "id": 179,
+            "parentId": 196,
+            "name": {
+              "ar": "Chanel",
+              "en": "Chanel"
+            },
+            "cover": {
+              "image": "noimage-2.jpg",
+              "title": "Chanel"
+            },
+            "listOrder": 17,
+            "showInMobile": true,
+            "status": "a",
+            "dateCreated": "02.10.2018 11:09:17",
+            "dateUpdated": "02.10.2018 11:09:42"
+          }
+        ],
+
+        "price": {
+          "buy": 33,
+          "sell": 429,
+          "sellWithVat": 215,
+          "sellWithVatWithoutDiscount": 429
+        },
+        "currency": {
+          "id": 4,
+          "code": "SAR",
+          "name": {
+            "ar": "Suudi Arabistan Riyali",
+            "en": "Suudi Arabistan Riyali",
+            "tr": "Suudi Arabistan Riyali"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1.5937,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "brand": {
+          "id": 107,
+          "logo": null,
+          "name": {
+            "ar": "Chanel",
+            "en": "Chanel"
+          },
+          "description": null,
+          "campaign": {
+            "isCampaign": false,
+            "campaignDateEnd": null,
+            "campaignDateStart": null
+          },
+          "owner": null,
+          "status": "a",
+          "dateCreated": "02.10.2018 10:59:12",
+          "dateUpdated": "02.10.2018 10:59:20"
+        },
+        "model": null,
+        "supplier": null,
+        "cargo": null,
+        "stock": {
+          "stock": 937,
+          "inStock": "y",
+          "stockUnit": 0
+        },
+        "vat": 0,
+        "hasDiscount": null,
+        "isNew": "y",
+        "visibility": {
+          "showInMobile": "y"
+        },
+        "listOrder": 1,
+        "rateCount": null,
+        "rateAvg": null,
+        "viewInMobile": "y",
+        "status": "a",
+        "dateCreated": "07.10.2018 20:52:07",
+        "dateUpdated": "22.11.2018 17:37:53"
+      },
+      {
+        "id": 8482,
+        "tsoftUrl": "christian-dior-sauvage-100-ml-edt-for-men-original-tester-perfume",
+        "code": "T242",
+        "title": {
+          "ar": "Christian Dior Sauvage 100 ml EDP For Men",
+          "en": "Christian Dior Sauvage 100 ml EDP For Men"
+        },
+        "styledTitle": {
+          "ar": "<b>Christian Dior</b> Sauvage 100 ml EDP For Men",
+          "en": "<b>Christian Dior</b> Sauvage 100 ml EDP For Men"
+        },
+        "detail": {
+          "ar": "<p>Testers are even more discounted than the fancy boxed versions and are great if you don't have a need for the fancy packaging.<br><br><b>What is a Tester</b><br><br> A tester is a version of a fragrance that comes without the fancy, retail packaging. Tester versions come in the same bottle as the retail version and include the same amount and quality of fragrance. The testers you see on our website are direct from the manufacturer and have never been used. If you'd like to save money on a fragrance for yourself, consider purchasing the tester version of your brand. Please be aware that not all brands have testers available.<br><br><b>What to Expect</b><br><br>In most cases, a tester fragrance will come in a plain white or cardboard box. However, some designers will reduce production costs by distributing their tester products unboxed and without caps. By cap we mean the decorative top, the spray nozzle comes with all spray fragrances. <br><br><strong>This product cannot be returned or exchanged.</strong></p>",
+          "en": "<p>Testers are even more discounted than the fancy boxed versions and are great if you don't have a need for the fancy packaging.<br><br><b>What is a Tester</b><br><br> A tester is a version of a fragrance that comes without the fancy, retail packaging. Tester versions come in the same bottle as the retail version and include the same amount and quality of fragrance. The testers you see on our website are direct from the manufacturer and have never been used. If you'd like to save money on a fragrance for yourself, consider purchasing the tester version of your brand. Please be aware that not all brands have testers available.<br><br><b>What to Expect</b><br><br>In most cases, a tester fragrance will come in a plain white or cardboard box. However, some designers will reduce production costs by distributing their tester products unboxed and without caps. By cap we mean the decorative top, the spray nozzle comes with all spray fragrances. <br><br><strong>This product cannot be returned or exchanged.</strong></p>"
+        },
+        "cover": {
+          "image": "355302.jpg",
+          "title": {
+            "ar": "Christian Dior Sauvage 100 ml EDP For Men",
+            "en": "Christian Dior Sauvage 100 ml EDP For Men"
+          }
+        },
+        "gallery": [
+          {
+            "image": "355302.jpg",
+            "title": {
+              "ar": "Christian Dior Sauvage 100 ml EDP For Men",
+              "en": "Christian Dior Sauvage 100 ml EDP For Men"
+            }
+          }
+        ],
+        "category": {
+          "id": 178,
+          "parentId": 196,
+          "name": {
+            "ar": "Christian Dior",
+            "en": "Christian Dior"
+          },
+          "cover": {
+            "image": "noimage-2.jpg",
+            "title": "Christian Dior"
+          },
+          "listOrder": 18,
+          "showInMobile": true,
+          "status": "a",
+          "dateCreated": "02.10.2018 11:09:17",
+          "dateUpdated": "02.10.2018 11:09:42"
+        },
+        "categories": [
+          {
+            "id": 178,
+            "parentId": 196,
+            "name": {
+              "ar": "Christian Dior",
+              "en": "Christian Dior"
+            },
+            "cover": {
+              "image": "noimage-2.jpg",
+              "title": "Christian Dior"
+            },
+            "listOrder": 18,
+            "showInMobile": true,
+            "status": "a",
+            "dateCreated": "02.10.2018 11:09:17",
+            "dateUpdated": "02.10.2018 11:09:42"
+          }
+        ],
+        "price": {
+          "buy": 33,
+          "sell": 471,
+          "sellWithVat": 235,
+          "sellWithVatWithoutDiscount": 471
+        },
+        "currency": {
+          "id": 4,
+          "code": "SAR",
+          "name": {
+            "ar": "Suudi Arabistan Riyali",
+            "en": "Suudi Arabistan Riyali",
+            "tr": "Suudi Arabistan Riyali"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1.5937,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "brand": {
+          "id": 119,
+          "logo": null,
+          "name": {
+            "ar": "Christian Dior",
+            "en": "Christian Dior"
+          },
+          "description": null,
+          "campaign": {
+            "isCampaign": false,
+            "campaignDateEnd": null,
+            "campaignDateStart": null
+          },
+          "owner": null,
+          "status": "a",
+          "dateCreated": "02.10.2018 10:59:13",
+          "dateUpdated": "02.10.2018 10:59:21"
+        },
+        "model": null,
+        "supplier": null,
+        "cargo": null,
+        "stock": {
+          "stock": 865,
+          "inStock": "y",
+          "stockUnit": 0
+        },
+        "vat": 0,
+        "hasDiscount": null,
+        "isNew": "y",
+        "visibility": {
+          "showInMobile": "y"
+        },
+        "listOrder": 2,
+        "rateCount": null,
+        "rateAvg": null,
+        "viewInMobile": "y",
+        "status": "a",
+        "dateCreated": "07.10.2018 20:52:08",
+        "dateUpdated": "22.11.2018 17:37:53"
+      },
+      {
+        "id": 8484,
+        "tsoftUrl": "creed-aventus-120-ml-edp-for-men-original-tester-perfume",
+        "code": "T240",
+        "title": {
+          "ar": "Creed Aventus 120 ml EDP For Men",
+          "en": "Creed Aventus 120 ml EDP For Men"
+        },
+        "styledTitle": {
+          "ar": "<b>Creed</b> Aventus 120 ml EDP For Men",
+          "en": "<b>Creed</b> Aventus 120 ml EDP For Men"
+        },
+        "detail": {
+          "ar": "<p>Testers are even more discounted than the fancy boxed versions and are great if you don't have a need for the fancy packaging.<br /><br /><b>What is a Tester</b><br /><br /> A tester is a version of a fragrance that comes without the fancy, retail packaging. Tester versions come in the same bottle as the retail version and include the same amount and quality of fragrance. The testers you see on our website are direct from the manufacturer and have never been used. If you'd like to save money on a fragrance for yourself, consider purchasing the tester version of your brand. Please be aware that not all brands have testers available.<br /><br /><b>What to Expect</b><br /><br />In most cases, a tester fragrance will come in a plain white or cardboard box. However, some designers will reduce production costs by distributing their tester products unboxed and without caps. By cap we mean the decorative top, the spray nozzle comes with all spray fragrances. <br /><br /><strong>This product cannot be returned or exchanged.</strong></p>",
+          "en": "<p>Testers are even more discounted than the fancy boxed versions and are great if you don't have a need for the fancy packaging.<br /><br /><b>What is a Tester</b><br /><br /> A tester is a version of a fragrance that comes without the fancy, retail packaging. Tester versions come in the same bottle as the retail version and include the same amount and quality of fragrance. The testers you see on our website are direct from the manufacturer and have never been used. If you'd like to save money on a fragrance for yourself, consider purchasing the tester version of your brand. Please be aware that not all brands have testers available.<br /><br /><b>What to Expect</b><br /><br />In most cases, a tester fragrance will come in a plain white or cardboard box. However, some designers will reduce production costs by distributing their tester products unboxed and without caps. By cap we mean the decorative top, the spray nozzle comes with all spray fragrances. <br /><br /><strong>This product cannot be returned or exchanged.</strong></p>"
+        },
+        "cover": {
+          "image": "355292.jpg",
+          "title": {
+            "ar": "Creed Aventus 120 ml EDP For Men",
+            "en": "Creed Aventus 120 ml EDP For Men"
+          }
+        },
+        "gallery": [
+          {
+            "image": "355292.jpg",
+            "title": {
+              "ar": "Creed Aventus 120 ml EDP For Men",
+              "en": "Creed Aventus 120 ml EDP For Men"
+            }
+          }
+        ],
+        "category": {
+          "id": 175,
+          "parentId": 196,
+          "name": {
+            "ar": "Creed",
+            "en": "Creed"
+          },
+          "cover": {
+            "image": "noimage-2.jpg",
+            "title": "Creed"
+          },
+          "listOrder": 22,
+          "showInMobile": true,
+          "status": "a",
+          "dateCreated": "02.10.2018 11:09:17",
+          "dateUpdated": "02.10.2018 11:09:42"
+        },
+        "categories": [
+          {
+            "id": 175,
+            "parentId": 196,
+            "name": {
+              "ar": "Creed",
+              "en": "Creed"
+            },
+            "cover": {
+              "image": "noimage-2.jpg",
+              "title": "Creed"
+            },
+            "listOrder": 22,
+            "showInMobile": true,
+            "status": "a",
+            "dateCreated": "02.10.2018 11:09:17",
+            "dateUpdated": "02.10.2018 11:09:42"
+          }
+        ],
+        "price": {
+          "buy": 31,
+          "sell": 504,
+          "sellWithVat": 252,
+          "sellWithVatWithoutDiscount": 504
+        },
+        "currency": {
+          "id": 4,
+          "code": "SAR",
+          "name": {
+            "ar": "Suudi Arabistan Riyali",
+            "en": "Suudi Arabistan Riyali",
+            "tr": "Suudi Arabistan Riyali"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1.5937,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "brand": {
+          "id": 113,
+          "logo": null,
+          "name": {
+            "ar": "Creed",
+            "en": "Creed"
+          },
+          "description": null,
+          "campaign": {
+            "isCampaign": false,
+            "campaignDateEnd": null,
+            "campaignDateStart": null
+          },
+          "owner": null,
+          "status": "a",
+          "dateCreated": "02.10.2018 10:59:13",
+          "dateUpdated": "02.10.2018 10:59:21"
+        },
+        "model": null,
+        "supplier": null,
+        "cargo": null,
+        "stock": {
+          "stock": 948,
+          "inStock": "y",
+          "stockUnit": 0
+        },
+        "vat": 0,
+        "hasDiscount": null,
+        "isNew": "y",
+        "visibility": {
+          "showInMobile": "y"
+        },
+        "listOrder": 3,
+        "rateCount": null,
+        "rateAvg": null,
+        "viewInMobile": "y",
+        "status": "a",
+        "dateCreated": "07.10.2018 20:52:08",
+        "dateUpdated": "22.11.2018 17:37:53"
+      },
+      {
+        "id": 8184,
+        "tsoftUrl": "chanel-coco-mademoiselle-100-ml-edp-women-original-tester-perfume",
+        "code": "T725",
+        "title": {
+          "ar": "Chanel Coco Mademoiselle 100 ml EDP Women",
+          "en": "Chanel Coco Mademoiselle 100 ml EDP Women"
+        },
+        "styledTitle": {
+          "ar": "<b>Chanel</b> Coco Mademoiselle 100 ml EDP Women",
+          "en": "<b>Chanel</b> Coco Mademoiselle 100 ml EDP Women"
+        },
+        "detail": {
+          "ar": "<p>Testers are even more discounted than the fancy boxed versions and are great if you don't have a need for the fancy packaging.<br /><br /><b>What is a Tester</b><br /><br /> A tester is a version of a fragrance that comes without the fancy, retail packaging. Tester versions come in the same bottle as the retail version and include the same amount and quality of fragrance. The testers you see on our website are direct from the manufacturer and have never been used. If you'd like to save money on a fragrance for yourself, consider purchasing the tester version of your brand. Please be aware that not all brands have testers available.<br /><br /><b>What to Expect</b><br /><br />In most cases, a tester fragrance will come in a plain white or cardboard box. However, some designers will reduce production costs by distributing their tester products unboxed and without caps. By cap we mean the decorative top, the spray nozzle comes with all spray fragrances. <br /><br /><strong>This product cannot be returned or exchanged.</strong></p>",
+          "en": "<p>Testers are even more discounted than the fancy boxed versions and are great if you don't have a need for the fancy packaging.<br /><br /><b>What is a Tester</b><br /><br /> A tester is a version of a fragrance that comes without the fancy, retail packaging. Tester versions come in the same bottle as the retail version and include the same amount and quality of fragrance. The testers you see on our website are direct from the manufacturer and have never been used. If you'd like to save money on a fragrance for yourself, consider purchasing the tester version of your brand. Please be aware that not all brands have testers available.<br /><br /><b>What to Expect</b><br /><br />In most cases, a tester fragrance will come in a plain white or cardboard box. However, some designers will reduce production costs by distributing their tester products unboxed and without caps. By cap we mean the decorative top, the spray nozzle comes with all spray fragrances. <br /><br /><strong>This product cannot be returned or exchanged.</strong></p>"
+        },
+        "cover": {
+          "image": "356542.jpg",
+          "title": {
+            "ar": "Chanel Coco Mademoiselle 100 ml EDP Women",
+            "en": "Chanel Coco Mademoiselle 100 ml EDP Women"
+          }
+        },
+        "gallery": [
+          {
+            "image": "356542.jpg",
+            "title": {
+              "ar": "Chanel Coco Mademoiselle 100 ml EDP Women",
+              "en": "Chanel Coco Mademoiselle 100 ml EDP Women"
+            }
+          }
+        ],
+        "category": {
+          "id": 103,
+          "parentId": 195,
+          "name": {
+            "ar": "Chanel",
+            "en": "Chanel"
+          },
+          "cover": {
+            "image": "noimage-2.jpg",
+            "title": "Chanel"
+          },
+          "listOrder": 20,
+          "showInMobile": true,
+          "status": "a",
+          "dateCreated": "02.10.2018 11:09:17",
+          "dateUpdated": "02.10.2018 11:09:42"
+        },
+        "categories": [
+          {
+            "id": 103,
+            "parentId": 195,
+            "name": {
+              "ar": "Chanel",
+              "en": "Chanel"
+            },
+            "cover": {
+              "image": "noimage-2.jpg",
+              "title": "Chanel"
+            },
+            "listOrder": 20,
+            "showInMobile": true,
+            "status": "a",
+            "dateCreated": "02.10.2018 11:09:17",
+            "dateUpdated": "02.10.2018 11:09:42"
+          }
+        ],
+        "price": {
+          "buy": 31,
+          "sell": 458,
+          "sellWithVat": 229,
+          "sellWithVatWithoutDiscount": 458
+        },
+        "currency": {
+          "id": 4,
+          "code": "SAR",
+          "name": {
+            "ar": "Suudi Arabistan Riyali",
+            "en": "Suudi Arabistan Riyali",
+            "tr": "Suudi Arabistan Riyali"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1.5937,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "brand": {
+          "id": 107,
+          "logo": null,
+          "name": {
+            "ar": "Chanel",
+            "en": "Chanel"
+          },
+          "description": null,
+          "campaign": {
+            "isCampaign": false,
+            "campaignDateEnd": null,
+            "campaignDateStart": null
+          },
+          "owner": null,
+          "status": "a",
+          "dateCreated": "02.10.2018 10:59:12",
+          "dateUpdated": "02.10.2018 10:59:20"
+        },
+        "model": null,
+        "supplier": null,
+        "cargo": null,
+        "stock": {
+          "stock": 965,
+          "inStock": "y",
+          "stockUnit": 0
+        },
+        "vat": 0,
+        "hasDiscount": null,
+        "isNew": "y",
+        "visibility": {
+          "showInMobile": "y"
+        },
+        "listOrder": 4,
+        "rateCount": null,
+        "rateAvg": null,
+        "viewInMobile": "y",
+        "status": "a",
+        "dateCreated": "07.10.2018 20:52:04",
+        "dateUpdated": "22.11.2018 17:37:52"
+      },
+      {
+        "id": 8376,
+        "tsoftUrl": "gucci-bloom-100-ml-edp-women-perfume-original-tester-perfume",
+        "code": "T370",
+        "title": {
+          "ar": "Gucci Bloom 100 ml EDP Women Perfume",
+          "en": "Gucci Bloom 100 ml EDP Women Perfume"
+        },
+        "styledTitle": {
+          "ar": "<b>Gucci</b> Bloom 100 ml EDP Women Perfume",
+          "en": "<b>Gucci</b> Bloom 100 ml EDP Women Perfume"
+        },
+        "detail": {
+          "ar": "<p>Testers are even more discounted than the fancy boxed versions and are great if you don't have a need for the fancy packaging.<br><br><b>What is a Tester</b><br><br> A tester is a version of a fragrance that comes without the fancy, retail packaging. Tester versions come in the same bottle as the retail version and include the same amount and quality of fragrance. The testers you see on our website are direct from the manufacturer and have never been used. If you'd like to save money on a fragrance for yourself, consider purchasing the tester version of your brand. Please be aware that not all brands have testers available.<br><br><b>What to Expect</b><br><br>In most cases, a tester fragrance will come in a plain white or cardboard box. However, some designers will reduce production costs by distributing their tester products unboxed and without caps. By cap we mean the decorative top, the spray nozzle comes with all spray fragrances. <br><br><strong>This product cannot be returned or exchanged.</strong></p>",
+          "en": "<p>Testers are even more discounted than the fancy boxed versions and are great if you don't have a need for the fancy packaging.<br><br><b>What is a Tester</b><br><br> A tester is a version of a fragrance that comes without the fancy, retail packaging. Tester versions come in the same bottle as the retail version and include the same amount and quality of fragrance. The testers you see on our website are direct from the manufacturer and have never been used. If you'd like to save money on a fragrance for yourself, consider purchasing the tester version of your brand. Please be aware that not all brands have testers available.<br><br><b>What to Expect</b><br><br>In most cases, a tester fragrance will come in a plain white or cardboard box. However, some designers will reduce production costs by distributing their tester products unboxed and without caps. By cap we mean the decorative top, the spray nozzle comes with all spray fragrances. <br><br><strong>This product cannot be returned or exchanged.</strong></p>"
+        },
+        "cover": {
+          "image": "355728.jpg",
+          "title": {
+            "ar": "Gucci Bloom 100 ml EDP Women Perfume",
+            "en": "Gucci Bloom 100 ml EDP Women Perfume"
+          }
+        },
+        "gallery": [
+          {
+            "image": "355728.jpg",
+            "title": {
+              "ar": "Gucci Bloom 100 ml EDP Women Perfume",
+              "en": "Gucci Bloom 100 ml EDP Women Perfume"
+            }
+          }
+        ],
+        "category": {
+          "id": 84,
+          "parentId": 195,
+          "name": {
+            "ar": "Gucci",
+            "en": "Gucci"
+          },
+          "cover": {
+            "image": "noimage-2.jpg",
+            "title": "Gucci"
+          },
+          "listOrder": 40,
+          "showInMobile": true,
+          "status": "a",
+          "dateCreated": "02.10.2018 11:09:17",
+          "dateUpdated": "02.10.2018 11:09:42"
+        },
+        "categories": [
+          {
+            "id": 84,
+            "parentId": 195,
+            "name": {
+              "ar": "Gucci",
+              "en": "Gucci"
+            },
+            "cover": {
+              "image": "noimage-2.jpg",
+              "title": "Gucci"
+            },
+            "listOrder": 40,
+            "showInMobile": true,
+            "status": "a",
+            "dateCreated": "02.10.2018 11:09:17",
+            "dateUpdated": "02.10.2018 11:09:42"
+          }
+        ],
+        "price": {
+          "buy": 31,
+          "sell": 363,
+          "sellWithVat": 182,
+          "sellWithVatWithoutDiscount": 363
+        },
+        "currency": {
+          "id": 4,
+          "code": "SAR",
+          "name": {
+            "ar": "Suudi Arabistan Riyali",
+            "en": "Suudi Arabistan Riyali",
+            "tr": "Suudi Arabistan Riyali"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1.5937,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "brand": {
+          "id": 156,
+          "logo": null,
+          "name": {
+            "ar": "Gucci",
+            "en": "Gucci"
+          },
+          "description": null,
+          "campaign": {
+            "isCampaign": false,
+            "campaignDateEnd": null,
+            "campaignDateStart": null
+          },
+          "owner": null,
+          "status": "a",
+          "dateCreated": "02.10.2018 10:59:13",
+          "dateUpdated": "02.10.2018 10:59:22"
+        },
+        "model": null,
+        "supplier": null,
+        "cargo": null,
+        "stock": {
+          "stock": 967,
+          "inStock": "y",
+          "stockUnit": 0
+        },
+        "vat": 0,
+        "hasDiscount": null,
+        "isNew": "y",
+        "visibility": {
+          "showInMobile": "y"
+        },
+        "listOrder": 5,
+        "rateCount": null,
+        "rateAvg": null,
+        "viewInMobile": "y",
+        "status": "a",
+        "dateCreated": "07.10.2018 20:52:07",
+        "dateUpdated": "22.11.2018 17:37:52"
+      },
+      {
+        "id": 8321,
+        "tsoftUrl": "yves-saint-laurent-black-opium-90-ml-edp-women-original-tester-perfume",
+        "code": "T448",
+        "title": {
+          "ar": "Yves Saint Laurent Black Opium 90 ml EDP Women",
+          "en": "Yves Saint Laurent Black Opium 90 ml EDP Women"
+        },
+        "styledTitle": {
+          "ar": "<b>Yves Saint Laurent</b> Black Opium 90 ml EDP Women",
+          "en": "<b>Yves Saint Laurent</b> Black Opium 90 ml EDP Women"
+        },
+        "detail": {
+          "ar": "<p>Testers are even more discounted than the fancy boxed versions and are great if you don't have a need for the fancy packaging.<br /><br /><b>What is a Tester</b><br /><br /> A tester is a version of a fragrance that comes without the fancy, retail packaging. Tester versions come in the same bottle as the retail version and include the same amount and quality of fragrance. The testers you see on our website are direct from the manufacturer and have never been used. If you'd like to save money on a fragrance for yourself, consider purchasing the tester version of your brand. Please be aware that not all brands have testers available.<br /><br /><b>What to Expect</b><br /><br />In most cases, a tester fragrance will come in a plain white or cardboard box. However, some designers will reduce production costs by distributing their tester products unboxed and without caps. By cap we mean the decorative top, the spray nozzle comes with all spray fragrances. <br /><br /><strong>This product cannot be returned or exchanged.</strong></p>",
+          "en": "<p>Testers are even more discounted than the fancy boxed versions and are great if you don't have a need for the fancy packaging.<br /><br /><b>What is a Tester</b><br /><br /> A tester is a version of a fragrance that comes without the fancy, retail packaging. Tester versions come in the same bottle as the retail version and include the same amount and quality of fragrance. The testers you see on our website are direct from the manufacturer and have never been used. If you'd like to save money on a fragrance for yourself, consider purchasing the tester version of your brand. Please be aware that not all brands have testers available.<br /><br /><b>What to Expect</b><br /><br />In most cases, a tester fragrance will come in a plain white or cardboard box. However, some designers will reduce production costs by distributing their tester products unboxed and without caps. By cap we mean the decorative top, the spray nozzle comes with all spray fragrances. <br /><br /><strong>This product cannot be returned or exchanged.</strong></p>"
+        },
+        "cover": {
+          "image": "355983.jpg",
+          "title": {
+            "ar": "Yves Saint Laurent Black Opium 90 ml EDP Women",
+            "en": "Yves Saint Laurent Black Opium 90 ml EDP Women"
+          }
+        },
+        "gallery": [
+          {
+            "image": "355983.jpg",
+            "title": {
+              "ar": "Yves Saint Laurent Black Opium 90 ml EDP Women",
+              "en": "Yves Saint Laurent Black Opium 90 ml EDP Women"
+            }
+          }
+        ],
+        "category": {
+          "id": 39,
+          "parentId": 195,
+          "name": {
+            "ar": "Yves Saint Laurent",
+            "en": "Yves Saint Laurent"
+          },
+          "cover": {
+            "image": "noimage-2.jpg",
+            "title": "Yves Saint Laurent"
+          },
+          "listOrder": 96,
+          "showInMobile": true,
+          "status": "a",
+          "dateCreated": "02.10.2018 11:09:17",
+          "dateUpdated": "02.10.2018 11:09:42"
+        },
+        "categories": [
+          {
+            "id": 39,
+            "parentId": 195,
+            "name": {
+              "ar": "Yves Saint Laurent",
+              "en": "Yves Saint Laurent"
+            },
+            "cover": {
+              "image": "noimage-2.jpg",
+              "title": "Yves Saint Laurent"
+            },
+            "listOrder": 96,
+            "showInMobile": true,
+            "status": "a",
+            "dateCreated": "02.10.2018 11:09:17",
+            "dateUpdated": "02.10.2018 11:09:42"
+          }
+        ],
+        "price": {
+          "buy": 31,
+          "sell": 369,
+          "sellWithVat": 184,
+          "sellWithVatWithoutDiscount": 369
+        },
+        "currency": {
+          "id": 4,
+          "code": "SAR",
+          "name": {
+            "ar": "Suudi Arabistan Riyali",
+            "en": "Suudi Arabistan Riyali",
+            "tr": "Suudi Arabistan Riyali"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1.5937,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "brand": {
+          "id": 158,
+          "logo": null,
+          "name": {
+            "ar": "Yves Saint Laurent",
+            "en": "Yves Saint Laurent"
+          },
+          "description": null,
+          "campaign": {
+            "isCampaign": false,
+            "campaignDateEnd": null,
+            "campaignDateStart": null
+          },
+          "owner": null,
+          "status": "a",
+          "dateCreated": "02.10.2018 10:59:13",
+          "dateUpdated": "02.10.2018 10:59:22"
+        },
+        "model": null,
+        "supplier": null,
+        "cargo": null,
+        "stock": {
+          "stock": 974,
+          "inStock": "y",
+          "stockUnit": 0
+        },
+        "vat": 0,
+        "hasDiscount": null,
+        "isNew": "y",
+        "visibility": {
+          "showInMobile": "y"
+        },
+        "listOrder": 6,
+        "rateCount": null,
+        "rateAvg": null,
+        "viewInMobile": "y",
+        "status": "a",
+        "dateCreated": "07.10.2018 20:52:06",
+        "dateUpdated": "22.11.2018 17:37:52"
+      },
+      {
+        "id": 8139,
+        "tsoftUrl": "maison-francis-kurkdjian-paris-baccarat-rouge-540-edp-women-and-men-70-ml-perfume-original-tester-perfume",
+        "code": "T796",
+        "title": {
+          "ar": "Maison Francis Kurkdjian Paris Baccarat Rouge 540 EDP Unisex 70 ml Perfume",
+          "en": "Maison Francis Kurkdjian Paris Baccarat Rouge 540 EDP Unisex 70 ml Perfume"
+        },
+        "styledTitle": {
+          "ar": "Maison Francis Kurkdjian Paris Baccarat Rouge 540 EDP Unisex 70 ml Perfume",
+          "en": "Maison Francis Kurkdjian Paris Baccarat Rouge 540 EDP Unisex 70 ml Perfume"
+        },
+        "detail": {
+          "ar": "<p>Testers are even more discounted than the fancy boxed versions and are great if you don't have a need for the fancy packaging.<br /><br /><b>What is a Tester</b><br /><br /> A tester is a version of a fragrance that comes without the fancy, retail packaging. Tester versions come in the same bottle as the retail version and include the same amount and quality of fragrance. The testers you see on our website are direct from the manufacturer and have never been used. If you'd like to save money on a fragrance for yourself, consider purchasing the tester version of your brand. Please be aware that not all brands have testers available.<br /><br /><b>What to Expect</b><br /><br />In most cases, a tester fragrance will come in a plain white or cardboard box. However, some designers will reduce production costs by distributing their tester products unboxed and without caps. By cap we mean the decorative top, the spray nozzle comes with all spray fragrances. <br /><br /><strong>This product cannot be returned or exchanged.</strong></p>",
+          "en": "<p>Testers are even more discounted than the fancy boxed versions and are great if you don't have a need for the fancy packaging.<br /><br /><b>What is a Tester</b><br /><br /> A tester is a version of a fragrance that comes without the fancy, retail packaging. Tester versions come in the same bottle as the retail version and include the same amount and quality of fragrance. The testers you see on our website are direct from the manufacturer and have never been used. If you'd like to save money on a fragrance for yourself, consider purchasing the tester version of your brand. Please be aware that not all brands have testers available.<br /><br /><b>What to Expect</b><br /><br />In most cases, a tester fragrance will come in a plain white or cardboard box. However, some designers will reduce production costs by distributing their tester products unboxed and without caps. By cap we mean the decorative top, the spray nozzle comes with all spray fragrances. <br /><br /><strong>This product cannot be returned or exchanged.</strong></p>"
+        },
+        "cover": {
+          "image": "356735.jpg",
+          "title": {
+            "ar": "Maison Francis Kurkdjian Paris Baccarat Rouge 540 EDP Unisex 70 ml Perfume",
+            "en": "Maison Francis Kurkdjian Paris Baccarat Rouge 540 EDP Unisex 70 ml Perfume"
+          }
+        },
+        "gallery": [
+          {
+            "image": "356735.jpg",
+            "title": {
+              "ar": "Maison Francis Kurkdjian Paris Baccarat Rouge 540 EDP Unisex 70 ml Perfume",
+              "en": "Maison Francis Kurkdjian Paris Baccarat Rouge 540 EDP Unisex 70 ml Perfume"
+            }
+          }
+        ],
+        "category": {
+          "id": 69,
+          "parentId": 195,
+          "name": {
+            "ar": "Maison Francis Kurkdjian",
+            "en": "Maison Francis Kurkdjian"
+          },
+          "cover": {
+            "image": "noimage-2.jpg",
+            "title": "Maison Francis Kurkdjian"
+          },
+          "listOrder": 55,
+          "showInMobile": true,
+          "status": "a",
+          "dateCreated": "02.10.2018 11:09:17",
+          "dateUpdated": "02.10.2018 11:09:42"
+        },
+        "categories": [
+          {
+            "id": 69,
+            "parentId": 195,
+            "name": {
+              "ar": "Maison Francis Kurkdjian",
+              "en": "Maison Francis Kurkdjian"
+            },
+            "cover": {
+              "image": "noimage-2.jpg",
+              "title": "Maison Francis Kurkdjian"
+            },
+            "listOrder": 55,
+            "showInMobile": true,
+            "status": "a",
+            "dateCreated": "02.10.2018 11:09:17",
+            "dateUpdated": "02.10.2018 11:09:42"
+          }
+        ],
+        "price": {
+          "buy": 31,
+          "sell": 504,
+          "sellWithVat": 252,
+          "sellWithVatWithoutDiscount": 504
+        },
+        "currency": {
+          "id": 4,
+          "code": "SAR",
+          "name": {
+            "ar": "Suudi Arabistan Riyali",
+            "en": "Suudi Arabistan Riyali",
+            "tr": "Suudi Arabistan Riyali"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1.5937,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "brand": {
+          "id": 60,
+          "logo": null,
+          "name": {
+            "ar": "Maison Francis Kurkdijan Paris",
+            "en": "Maison Francis Kurkdijan Paris"
+          },
+          "description": null,
+          "campaign": {
+            "isCampaign": false,
+            "campaignDateEnd": null,
+            "campaignDateStart": null
+          },
+          "owner": null,
+          "status": "a",
+          "dateCreated": "02.10.2018 10:59:12",
+          "dateUpdated": "02.10.2018 10:59:19"
+        },
+        "model": null,
+        "supplier": null,
+        "cargo": null,
+        "stock": {
+          "stock": 912,
+          "inStock": "y",
+          "stockUnit": 0
+        },
+        "vat": 0,
+        "hasDiscount": null,
+        "isNew": "y",
+        "visibility": {
+          "showInMobile": "y"
+        },
+        "listOrder": 7,
+        "rateCount": null,
+        "rateAvg": null,
+        "viewInMobile": "y",
+        "status": "a",
+        "dateCreated": "07.10.2018 20:52:03",
+        "dateUpdated": "22.11.2018 17:37:52"
+      },
+      {
+        "id": 8512,
+        "tsoftUrl": "creed-silver-montain-water-120-ml-edp-unisex-original-tester-perfume",
+        "code": "T202",
+        "title": {
+          "ar": "Creed Silver Mountain Water 120 ml EDP Unisex",
+          "en": "Creed Silver Mountain Water 120 ml EDP Unisex"
+        },
+        "styledTitle": {
+          "ar": "<b>Creed</b> Silver Mountain Water 120 ml EDP Unisex",
+          "en": "<b>Creed</b> Silver Mountain Water 120 ml EDP Unisex"
+        },
+        "detail": {
+          "ar": "<p>Testers are even more discounted than the fancy boxed versions and are great if you don't have a need for the fancy packaging.<br /><br /><b>What is a Tester</b><br /><br /> A tester is a version of a fragrance that comes without the fancy, retail packaging. Tester versions come in the same bottle as the retail version and include the same amount and quality of fragrance. The testers you see on our website are direct from the manufacturer and have never been used. If you'd like to save money on a fragrance for yourself, consider purchasing the tester version of your brand. Please be aware that not all brands have testers available.<br /><br /><b>What to Expect</b><br /><br />In most cases, a tester fragrance will come in a plain white or cardboard box. However, some designers will reduce production costs by distributing their tester products unboxed and without caps. By cap we mean the decorative top, the spray nozzle comes with all spray fragrances. <br /><br /><strong>This product cannot be returned or exchanged.</strong></p>",
+          "en": "<p>Testers are even more discounted than the fancy boxed versions and are great if you don't have a need for the fancy packaging.<br /><br /><b>What is a Tester</b><br /><br /> A tester is a version of a fragrance that comes without the fancy, retail packaging. Tester versions come in the same bottle as the retail version and include the same amount and quality of fragrance. The testers you see on our website are direct from the manufacturer and have never been used. If you'd like to save money on a fragrance for yourself, consider purchasing the tester version of your brand. Please be aware that not all brands have testers available.<br /><br /><b>What to Expect</b><br /><br />In most cases, a tester fragrance will come in a plain white or cardboard box. However, some designers will reduce production costs by distributing their tester products unboxed and without caps. By cap we mean the decorative top, the spray nozzle comes with all spray fragrances. <br /><br /><strong>This product cannot be returned or exchanged.</strong></p>"
+        },
+        "cover": {
+          "image": "355171.jpg",
+          "title": {
+            "ar": "Creed Silver Mountain Water 120 ml EDP Unisex",
+            "en": "Creed Silver Mountain Water 120 ml EDP Unisex"
+          }
+        },
+        "gallery": [
+          {
+            "image": "355171.jpg",
+            "title": {
+              "ar": "Creed Silver Mountain Water 120 ml EDP Unisex",
+              "en": "Creed Silver Mountain Water 120 ml EDP Unisex"
+            }
+          }
+        ],
+        "category": {
+          "id": 99,
+          "parentId": 195,
+          "name": {
+            "ar": "Creed",
+            "en": "Creed"
+          },
+          "cover": {
+            "image": "noimage-2.jpg",
+            "title": "Creed"
+          },
+          "listOrder": 25,
+          "showInMobile": true,
+          "status": "a",
+          "dateCreated": "02.10.2018 11:09:17",
+          "dateUpdated": "02.10.2018 11:09:42"
+        },
+        "categories": [
+          {
+            "id": 175,
+            "parentId": 196,
+            "name": {
+              "ar": "Creed",
+              "en": "Creed"
+            },
+            "cover": {
+              "image": "noimage-2.jpg",
+              "title": "Creed"
+            },
+            "listOrder": 22,
+            "showInMobile": true,
+            "status": "a",
+            "dateCreated": "02.10.2018 11:09:17",
+            "dateUpdated": "02.10.2018 11:09:42"
+          },
+          {
+            "id": 99,
+            "parentId": 195,
+            "name": {
+              "ar": "Creed",
+              "en": "Creed"
+            },
+            "cover": {
+              "image": "noimage-2.jpg",
+              "title": "Creed"
+            },
+            "listOrder": 25,
+            "showInMobile": true,
+            "status": "a",
+            "dateCreated": "02.10.2018 11:09:17",
+            "dateUpdated": "02.10.2018 11:09:42"
+          }
+        ],
+        "price": {
+          "buy": 31,
+          "sell": 598,
+          "sellWithVat": 299,
+          "sellWithVatWithoutDiscount": 598
+        },
+        "currency": {
+          "id": 4,
+          "code": "SAR",
+          "name": {
+            "ar": "Suudi Arabistan Riyali",
+            "en": "Suudi Arabistan Riyali",
+            "tr": "Suudi Arabistan Riyali"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1.5937,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "brand": {
+          "id": 113,
+          "logo": null,
+          "name": {
+            "ar": "Creed",
+            "en": "Creed"
+          },
+          "description": null,
+          "campaign": {
+            "isCampaign": false,
+            "campaignDateEnd": null,
+            "campaignDateStart": null
+          },
+          "owner": null,
+          "status": "a",
+          "dateCreated": "02.10.2018 10:59:13",
+          "dateUpdated": "02.10.2018 10:59:21"
+        },
+        "model": null,
+        "supplier": null,
+        "cargo": null,
+        "stock": {
+          "stock": 969,
+          "inStock": "y",
+          "stockUnit": 0
+        },
+        "vat": 0,
+        "hasDiscount": null,
+        "isNew": "y",
+        "visibility": {
+          "showInMobile": "y"
+        },
+        "listOrder": 8,
+        "rateCount": null,
+        "rateAvg": null,
+        "viewInMobile": "y",
+        "status": "a",
+        "dateCreated": "07.10.2018 20:52:08",
+        "dateUpdated": "22.11.2018 17:37:53"
+      },
+      {
+        "id": 8551,
+        "tsoftUrl": "tom-ford-oud-wood-50-ml-edp-unisex-top-quality-original-tester-perfume",
+        "code": "T92",
+        "title": {
+          "ar": "Tom Ford Oud Wood 50 ml EDP Unisex Top Quality",
+          "en": "Tom Ford Oud Wood 50 ml EDP Unisex Top Quality"
+        },
+        "styledTitle": {
+          "ar": "<b>Tom Ford</b> Oud Wood 50 ml EDP Unisex Top Quality",
+          "en": "<b>Tom Ford</b> Oud Wood 50 ml EDP Unisex Top Quality"
+        },
+        "detail": {
+          "ar": "<p>Testers are even more discounted than the fancy boxed versions and are great if you don't have a need for the fancy packaging.<br /><br /><b>What is a Tester</b><br /><br /> A tester is a version of a fragrance that comes without the fancy, retail packaging. Tester versions come in the same bottle as the retail version and include the same amount and quality of fragrance. The testers you see on our website are direct from the manufacturer and have never been used. If you'd like to save money on a fragrance for yourself, consider purchasing the tester version of your brand. Please be aware that not all brands have testers available.<br /><br /><b>What to Expect</b><br /><br />In most cases, a tester fragrance will come in a plain white or cardboard box. However, some designers will reduce production costs by distributing their tester products unboxed and without caps. By cap we mean the decorative top, the spray nozzle comes with all spray fragrances. <br /><br /><strong>This product cannot be returned or exchanged.</strong></p>",
+          "en": "<p>Testers are even more discounted than the fancy boxed versions and are great if you don't have a need for the fancy packaging.<br /><br /><b>What is a Tester</b><br /><br /> A tester is a version of a fragrance that comes without the fancy, retail packaging. Tester versions come in the same bottle as the retail version and include the same amount and quality of fragrance. The testers you see on our website are direct from the manufacturer and have never been used. If you'd like to save money on a fragrance for yourself, consider purchasing the tester version of your brand. Please be aware that not all brands have testers available.<br /><br /><b>What to Expect</b><br /><br />In most cases, a tester fragrance will come in a plain white or cardboard box. However, some designers will reduce production costs by distributing their tester products unboxed and without caps. By cap we mean the decorative top, the spray nozzle comes with all spray fragrances. <br /><br /><strong>This product cannot be returned or exchanged.</strong></p>"
+        },
+        "cover": {
+          "image": "355026.jpg",
+          "title": {
+            "ar": "Tom Ford Oud Wood 50 ml EDP Unisex Top Quality",
+            "en": "Tom Ford Oud Wood 50 ml EDP Unisex Top Quality"
+          }
+        },
+        "gallery": [
+          {
+            "image": "355026.jpg",
+            "title": {
+              "ar": "Tom Ford Oud Wood 50 ml EDP Unisex Top Quality",
+              "en": "Tom Ford Oud Wood 50 ml EDP Unisex Top Quality"
+            }
+          }
+        ],
+        "category": {
+          "id": 46,
+          "parentId": 195,
+          "name": {
+            "ar": "Tom Ford",
+            "en": "Tom Ford"
+          },
+          "cover": {
+            "image": "noimage-2.jpg",
+            "title": "Tom Ford"
+          },
+          "listOrder": 88,
+          "showInMobile": true,
+          "status": "a",
+          "dateCreated": "02.10.2018 11:09:17",
+          "dateUpdated": "02.10.2018 11:09:42"
+        },
+        "categories": [
+          {
+            "id": 136,
+            "parentId": 196,
+            "name": {
+              "ar": "Tom Ford",
+              "en": "Tom Ford"
+            },
+            "cover": {
+              "image": "noimage-2.jpg",
+              "title": "Tom Ford"
+            },
+            "listOrder": 75,
+            "showInMobile": true,
+            "status": "a",
+            "dateCreated": "02.10.2018 11:09:17",
+            "dateUpdated": "02.10.2018 11:09:42"
+          },
+          {
+            "id": 46,
+            "parentId": 195,
+            "name": {
+              "ar": "Tom Ford",
+              "en": "Tom Ford"
+            },
+            "cover": {
+              "image": "noimage-2.jpg",
+              "title": "Tom Ford"
+            },
+            "listOrder": 88,
+            "showInMobile": true,
+            "status": "a",
+            "dateCreated": "02.10.2018 11:09:17",
+            "dateUpdated": "02.10.2018 11:09:42"
+          }
+        ],
+        "price": {
+          "buy": 31,
+          "sell": 598,
+          "sellWithVat": 299,
+          "sellWithVatWithoutDiscount": 598
+        },
+        "currency": {
+          "id": 4,
+          "code": "SAR",
+          "name": {
+            "ar": "Suudi Arabistan Riyali",
+            "en": "Suudi Arabistan Riyali",
+            "tr": "Suudi Arabistan Riyali"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1.5937,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "brand": {
+          "id": 164,
+          "logo": null,
+          "name": {
+            "ar": "Tom Ford",
+            "en": "Tom Ford"
+          },
+          "description": null,
+          "campaign": {
+            "isCampaign": false,
+            "campaignDateEnd": null,
+            "campaignDateStart": null
+          },
+          "owner": null,
+          "status": "a",
+          "dateCreated": "02.10.2018 10:59:13",
+          "dateUpdated": "02.10.2018 10:59:22"
+        },
+        "model": null,
+        "supplier": null,
+        "cargo": null,
+        "stock": {
+          "stock": 988,
+          "inStock": "y",
+          "stockUnit": 0
+        },
+        "vat": 0,
+        "hasDiscount": null,
+        "isNew": "y",
+        "visibility": {
+          "showInMobile": "y"
+        },
+        "listOrder": 9,
+        "rateCount": null,
+        "rateAvg": null,
+        "viewInMobile": "y",
+        "status": "a",
+        "dateCreated": "07.10.2018 20:52:08",
+        "dateUpdated": "22.11.2018 17:37:53"
+      },
+      {
+        "id": 8521,
+        "tsoftUrl": "nassomatto-black-afgano-30-ml-edp-unisex-original-tester-perfume",
+        "code": "T189",
+        "title": {
+          "ar": "Nasomatto Black Afgano 30 ml EDP Unisex",
+          "en": "Nasomatto Black Afgano 30 ml EDP Unisex"
+        },
+        "styledTitle": {
+          "ar": "<b>Nasomatto</b> Black Afgano 30 ml EDP Unisex",
+          "en": "<b>Nasomatto</b> Black Afgano 30 ml EDP Unisex"
+        },
+        "detail": {
+          "ar": "<p>Testers are even more discounted than the fancy boxed versions and are great if you don't have a need for the fancy packaging.<br><br><b>What is a Tester</b><br><br> A tester is a version of a fragrance that comes without the fancy, retail packaging. Tester versions come in the same bottle as the retail version and include the same amount and quality of fragrance. The testers you see on our website are direct from the manufacturer and have never been used. If you'd like to save money on a fragrance for yourself, consider purchasing the tester version of your brand. Please be aware that not all brands have testers available.<br><br><b>What to Expect</b><br><br>In most cases, a tester fragrance will come in a plain white or cardboard box. However, some designers will reduce production costs by distributing their tester products unboxed and without caps. By cap we mean the decorative top, the spray nozzle comes with all spray fragrances. <br><br><strong>This product cannot be returned or exchanged.</strong></p>",
+          "en": "<p>Testers are even more discounted than the fancy boxed versions and are great if you don't have a need for the fancy packaging.<br><br><b>What is a Tester</b><br><br> A tester is a version of a fragrance that comes without the fancy, retail packaging. Tester versions come in the same bottle as the retail version and include the same amount and quality of fragrance. The testers you see on our website are direct from the manufacturer and have never been used. If you'd like to save money on a fragrance for yourself, consider purchasing the tester version of your brand. Please be aware that not all brands have testers available.<br><br><b>What to Expect</b><br><br>In most cases, a tester fragrance will come in a plain white or cardboard box. However, some designers will reduce production costs by distributing their tester products unboxed and without caps. By cap we mean the decorative top, the spray nozzle comes with all spray fragrances. <br><br><strong>This product cannot be returned or exchanged.</strong></p>"
+        },
+        "cover": {
+          "image": "355146.jpg",
+          "title": {
+            "ar": "Nasomatto Black Afgano 30 ml EDP Unisex",
+            "en": "Nasomatto Black Afgano 30 ml EDP Unisex"
+          }
+        },
+        "gallery": [
+          {
+            "image": "355146.jpg",
+            "title": {
+              "ar": "Nasomatto Black Afgano 30 ml EDP Unisex",
+              "en": "Nasomatto Black Afgano 30 ml EDP Unisex"
+            }
+          }
+        ],
+        "category": {
+          "id": 37,
+          "parentId": 195,
+          "name": {
+            "ar": "Nasomatto",
+            "en": "Nasomatto"
+          },
+          "cover": {
+            "image": "noimage-2.jpg",
+            "title": "Nasomatto"
+          },
+          "listOrder": 67,
+          "showInMobile": true,
+          "status": "a",
+          "dateCreated": "02.10.2018 11:09:17",
+          "dateUpdated": "02.10.2018 11:09:42"
+        },
+        "categories": [
+          {
+            "id": 147,
+            "parentId": 196,
+            "name": {
+              "ar": "Nasomatto",
+              "en": "Nasomatto"
+            },
+            "cover": {
+              "image": "noimage-2.jpg",
+              "title": "Nasomatto"
+            },
+            "listOrder": 58,
+            "showInMobile": true,
+            "status": "a",
+            "dateCreated": "02.10.2018 11:09:17",
+            "dateUpdated": "02.10.2018 11:09:42"
+          },
+          {
+            "id": 37,
+            "parentId": 195,
+            "name": {
+              "ar": "Nasomatto",
+              "en": "Nasomatto"
+            },
+            "cover": {
+              "image": "noimage-2.jpg",
+              "title": "Nasomatto"
+            },
+            "listOrder": 67,
+            "showInMobile": true,
+            "status": "a",
+            "dateCreated": "02.10.2018 11:09:17",
+            "dateUpdated": "02.10.2018 11:09:42"
+          }
+        ],
+        "price": {
+          "buy": 32,
+          "sell": 396,
+          "sellWithVat": 198,
+          "sellWithVatWithoutDiscount": 396
+        },
+        "currency": {
+          "id": 4,
+          "code": "SAR",
+          "name": {
+            "ar": "Suudi Arabistan Riyali",
+            "en": "Suudi Arabistan Riyali",
+            "tr": "Suudi Arabistan Riyali"
+          },
+          "rates": {
+            "manual": 1,
+            "current": 1.5937,
+            "default": "manual"
+          },
+          "status": "a",
+          "dateCreated": "13.09.2018 16:56:11",
+          "dateUpdated": "02.10.2018 11:00:33"
+        },
+        "brand": {
+          "id": 116,
+          "logo": null,
+          "name": {
+            "ar": "Nasomatto",
+            "en": "Nasomatto"
+          },
+          "description": null,
+          "campaign": {
+            "isCampaign": false,
+            "campaignDateEnd": null,
+            "campaignDateStart": null
+          },
+          "owner": null,
+          "status": "a",
+          "dateCreated": "02.10.2018 10:59:13",
+          "dateUpdated": "02.10.2018 10:59:21"
+        },
+        "model": null,
+        "supplier": null,
+        "cargo": null,
+        "stock": {
+          "stock": 990,
+          "inStock": "y",
+          "stockUnit": 0
+        },
+        "vat": 0,
+        "hasDiscount": null,
+        "isNew": "y",
+        "visibility": {
+          "showInMobile": "y"
+        },
+        "listOrder": 10,
+        "rateCount": null,
+        "rateAvg": null,
+        "viewInMobile": "y",
+        "status": "a",
+        "dateCreated": "07.10.2018 20:52:08",
+        "dateUpdated": "22.11.2018 17:37:53"
+      }
+    ],
+    "pagination": {
+      "pageCount": 632,
+      "recordCount": 6312,
+      "itemsPerPage": 10,
+      "firstLink": "?offset=0&limit=10",
+      "lastLink": "?offset=6310&limit=10",
+      "prevLink": "",
+      "nextLink": "?offset=10&limit=10",
+      "currentPage": 1,
+      "circular": false
+    }
+  }
+}

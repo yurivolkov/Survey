@@ -1,0 +1,246 @@
+{
+  "close": "Close",
+  "myAccount": "My Account",
+  "logout": "Logout",
+  "save": "Save",
+  "inputs": {
+    "upload_image": "Upload Image"
+  },
+  "buttons": {
+    "save": "Save",
+    "new": "Add",
+    "edit": "Edit",
+    "delete": "Delete",
+    "active": "Active",
+    "passive": "Passive"
+  },
+  "labels": {
+    "active" : "Active",
+    "passive" : "Passive"
+  },
+  "category" : {
+    "components": {
+      "list": "Category List",
+      "detail": "Category Detail"
+    },
+    "detail_modal": {
+      "name": "Name",
+      "parent": "Parent",
+      "created_date": "Created Date",
+      "country": "Country",
+      "user_detail": "User Detail"
+    },
+    "datatable": {
+      "name": "Name",
+      "parent_name": "Parent Name",
+      "status": "Status"
+    },
+    "input": {
+      "name" : "Name",
+      "code" : "Language Code",
+      "sort_order" : "Sort Order",
+      "parent" : "Parent Category",
+      "status" : "Status"
+    },
+    "labels": {
+      "wait_category": "Categories Pending Approval"
+    }
+  },
+  "country" : {
+    "datatable": {
+      "name": "Name",
+      "code": "code",
+      "flag": "Flag",
+      "status": "Status",
+      "order": "Order"
+    },
+
+    "components": {
+      "list": "Country List",
+      "detail": "Country Detail"
+    },
+
+    "input": {
+      "name_en" : "English Name",
+      "name" : "Name",
+      "code" : "Code",
+      "flag" : "Flag",
+      "sort_order" : "Order",
+      "status" : "Status"
+    },
+
+    "labels": {
+      "list" : "Country List",
+      "new" : "New Country",
+      "edit" : "Edit Country",
+      "delete" : "Delete Country",
+      "country_admin" : "Country Admin",
+      "country_admin_password_confirmation": "Password Confirmation",
+      "country_admin_password": "Password"
+    }
+  },
+  "city" : {
+    "datatable": {
+      "name": "Name",
+      "order": "Order",
+      "status": "Status"
+    },
+
+    "components": {
+      "list": "City List",
+      "detail": "City Detail"
+    },
+
+    "input": {
+      "name" : "Name",
+      "order" : "Order",
+      "status" : "Status"
+    },
+
+    "labels": {
+      "list" : "City List",
+      "new" : "New City",
+      "edit" : "Edit City",
+      "delete" : "Delete City"
+    }
+  },
+  "keyword" : {
+    "datatable": {
+      "key": "Keyword",
+      "default": "Default",
+      "translation": "Translation"
+    },
+    "components": {
+      "list": "Keyword List",
+      "detail": "Keyword Detail"
+    },
+
+    "input": {
+      "keyword" : "Keyword",
+      "default" : "Default",
+      "translation": "Translation"
+    },
+
+    "labels": {
+      "list" : "Keyword List",
+      "new" : "New Keyword",
+      "edit" : "Edit Keyword",
+      "delete" : "Delete Keyword",
+      "translation" : "Translation"
+    }
+  },
+  "special" : {
+    "datatable": {
+      "key": "Special Survey",
+      "title" : "Title",
+      "date" : "Date",
+      "answer" : "Answer",
+      "status" : "Status",
+      "show_on_home": "Show On Home Page"
+    },
+    "components": {
+      "list": "Special Survey List",
+      "detail": "Special Survey"
+    },
+    "input": {
+      "title" : "Title",
+      "answer" : "Answer",
+      "option" : "Option",
+      "add_answer": "Add Answer",
+      "add_option": "Add Option",
+      "remove_answer": "Remove Option",
+      "show_on_home_page": "Show On Home Page",
+      "expire_at": "Start At - Expire At"
+    },
+
+    "labels": {
+      "list" : "Special Survey List",
+      "new" : "New Special Survey",
+      "edit" : "Edit Special Survey",
+      "delete" : "Delete Special Survey"
+    }
+  },
+  "subject" : {
+    "datatable": {
+      "title": "Title"
+    },
+    "components": {
+      "list": "Subject List",
+      "detail": "Subject Detail"
+    },
+    "labels": {
+      "list" : "Subject List",
+      "new" : "Subject",
+      "edit" : "Edit Subject",
+      "delete" : "Delete Subject",
+      "translation" : "Translation"
+    },
+    "input": {
+      "title" : "Title",
+      "created_at": "Created_at",
+      "updated_at": "Updated_at"
+    }
+  },
+  "user" : {
+    "components": {
+      "list": "User List",
+      "detail": "User Detail"
+    },
+    "labels": {
+      "list" : "User List",
+      "new" : "New User",
+      "edit" : "Edit User",
+      "delete" : "Delete User",
+      "translation" : "Translation"
+    },
+    "input": {
+      "status": "Status",
+      "name" : "Name",
+      "email" : "Email",
+      "country": "Country",
+      "city": "City",
+      "created_at": "Created_at",
+      "updated_at": "Updated_at"
+    }
+  },
+  "page" : {
+    "datatable": {
+      "title": "Name",
+      "translation": "Translation",
+      "order": "Sort Order"
+    },
+    "components": {
+      "list": "Country List",
+      "detail": "Country Detail"
+    },
+    "labels": {
+      "list" : "Footer Menu Management",
+      "new" : "New Menu",
+      "edit" : "Edit Menu",
+      "delete" : "Delete Menu",
+      "translation" : "Translation"
+    },
+    "input": {
+      "name" : "Name",
+      "body" : "Body",
+      "order": "Sort Order"
+    }
+  },
+  "survey": {
+    "labels": {
+      "list": "Survey List"
+    },
+    "components": {
+      "edit": "Edit Survey"
+    }
+  },
+  "comments": {
+    "labels": {
+      "list": "Comment List"
+    },
+    "datatable": {
+      "user": "Author",
+      "comment": "comment"
+    }
+  }
+}
